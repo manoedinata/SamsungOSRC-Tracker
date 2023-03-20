@@ -1,0 +1,30 @@
+name: Fetch latest Samsung OSRC releases
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Setup environment
+      run: |
+        pip3 install -r requirements.txt
+
+    - name: Run fetch
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+      run: |
+        python3 main.py ${BOT_TOKEN} ${CHANNEL_ID}
+
+    - name: Commit and push
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
