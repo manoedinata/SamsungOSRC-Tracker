@@ -31,4 +31,5 @@ jobs:
     - name: Commit and push
       uses: actions-js/push@master
       with:
+        force: true
         github_token: ${{ secrets.GH_TOKEN }}
