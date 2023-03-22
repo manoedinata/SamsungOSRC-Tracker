@@ -18,6 +18,9 @@ class diff(object):
             return None
 
         sourcesDiff = insert.get(jsondiff.insert)
+        if not sourcesDiff:
+            return None
+
         for index, changes in sourcesDiff:
             self.diff_inserts.append(changes)
         return self.diff_inserts

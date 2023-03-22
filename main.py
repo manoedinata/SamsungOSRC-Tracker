@@ -24,7 +24,7 @@ diff = diff(old_releases="./releases.json", releases="./releases-new.json")
 get_diff = diff.get_diff()
 if not get_diff:
     print("No changes detected. Skipping...")
-    os.remove("./releases-new.json")
+    os.replace("./releases-new.json", "./releases.json")
     quit()
 
 message = ""
