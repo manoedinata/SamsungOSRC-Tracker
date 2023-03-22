@@ -1,9 +1,9 @@
 {
-    "fetch_date": "2023/03/22 08:23:39",
+    "fetch_date": "2023/03/22 20:48:19",
     "releases": [
         {
             "model": "SM-S918B",
-            "version": "S918BXXU1AWBD",
+            "version": "S918BXXU1AWBD, S918BXXS1AWBM",
             "description": "SM-S918B_13_Opensource.zip"
         },
         {
