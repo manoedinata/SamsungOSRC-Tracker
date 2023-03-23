@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/03/23 16:17:15",
+    "fetch_date": "2023/03/23 16:37:41",
     "releases": [
+        {
+            "model": "SM-T509",
+            "version": "T509XXU1AVI1",
+            "description": "SM-T509_LATIN_12_Opensource.zip"
+        },
+        {
+            "model": "SM-T290",
+            "version": "T290KSU3CVD3",
+            "description": "SM-T290_KOR_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-G736U",
+            "version": "G736USQU1AVF2",
+            "description": "SM-G736U_NA_12_Opensource.zip"
+        },
         {
             "model": "SM-A135U",
             "version": "A135USQU1AVB9",
@@ -35,21 +50,6 @@
             "model": "SM-T227U",
             "version": "T227USQU1AUF6",
             "description": "SM-T227U_NA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-T738U",
-            "version": "T738USQU1AUFA",
-            "description": "SM-T738U_NA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-P200",
-            "version": "P200ZHU3BTG1",
-            "description": "SM-P200_HK_QQ_Opensource.zip"
-        },
-        {
-            "model": "SM-S918B",
-            "version": "S918BXXU1AWBD, S918BXXS1AWBM",
-            "description": "SM-S918B_13_Opensource.zip"
         }
     ]
 }
