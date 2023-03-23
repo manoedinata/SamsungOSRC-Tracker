@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/03/23 13:21:58",
+    "fetch_date": "2023/03/23 13:39:37",
     "releases": [
+        {
+            "model": "SM-T503",
+            "version": "T503XXU1BVI2",
+            "description": "SM-T503_NA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-G889A",
+            "version": "G889AUCU8DVB3",
+            "description": "SM-G889A_NA_QQ_Opensource.zip"
+        },
+        {
+            "model": "SM-F916U",
+            "version": "F916USQU2IVK3",
+            "description": "SM-F916U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-T227U",
             "version": "T227USQU1AUF6",
@@ -35,21 +50,6 @@
             "model": "SM-A042F",
             "version": "A042FXXS1AWA1",
             "description": "SM-A042F_MEA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A515F",
-            "version": "A515FXXS6GWB1",
-            "description": "SM-A515F_SWA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M625F",
-            "version": "M625FXXU3CWB4",
-            "description": "SM-M625F_MEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A136B",
-            "version": "A136BXXU2BVK3",
-            "description": "SM-A136B_13_Opensource.zip"
         }
     ]
 }
