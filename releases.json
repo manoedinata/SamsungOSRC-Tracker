@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/03/23 10:37:18",
+    "fetch_date": "2023/03/23 11:20:54",
     "releases": [
+        {
+            "model": "SM-T227U",
+            "version": "T227USQU1AUF6",
+            "description": "SM-T227U_NA_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-T738U",
+            "version": "T738USQU1AUFA",
+            "description": "SM-T738U_NA_RR_Opensource.zip"
+        },
         {
             "model": "SM-P200",
             "version": "P200ZHU3BTG1",
@@ -40,16 +50,6 @@
             "model": "SM-A136B",
             "version": "A136BXXU2BVK3",
             "description": "SM-A136B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A035F",
-            "version": "A035FXXU1BVH4",
-            "description": "SM-A035F_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A536B",
-            "version": "A536BXXU4CWB1",
-            "description": "SM-A536B_13_Opensource.zip"
         }
     ]
 }
