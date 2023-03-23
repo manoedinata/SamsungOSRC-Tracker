@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/03/23 06:37:39",
+    "fetch_date": "2023/03/23 08:23:21",
     "releases": [
+        {
+            "model": "SM-P200",
+            "version": "P200ZHU3BTG1",
+            "description": "SM-P200_HK_QQ_Opensource.zip"
+        },
         {
             "model": "SM-S918B",
             "version": "S918BXXU1AWBD, S918BXXS1AWBM",
@@ -45,11 +50,6 @@
             "model": "SM-A536B",
             "version": "A536BXXU4CWB1",
             "description": "SM-A536B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A217M",
-            "version": "A217MUBUADVL2",
-            "description": "SM-A217M_LATIN_12_Opensource.zip"
         }
     ]
 }
