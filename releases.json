@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/03/24 10:17:53",
+    "fetch_date": "2023/03/24 10:37:29",
     "releases": [
+        {
+            "model": "SM-M526B",
+            "version": "M526BXXU2CWB3",
+            "description": "SM-M526B_SWA_13_Opensource.zip"
+        },
         {
             "model": "SM-T509",
             "version": "T509XXU1AVI1",
@@ -45,11 +50,6 @@
             "model": "SM-F916U",
             "version": "F916USQU2IVK3",
             "description": "SM-F916U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T227U",
-            "version": "T227USQU1AUF6",
-            "description": "SM-T227U_NA_RR_Opensource.zip"
         }
     ]
 }
