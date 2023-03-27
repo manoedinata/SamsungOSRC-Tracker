@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/03/27 13:22:41",
+    "fetch_date": "2023/03/27 13:40:16",
     "releases": [
+        {
+            "model": "SM-A136B",
+            "version": "A136BXXU1AVE3",
+            "description": "SM-A136B_12_Opensource.zip"
+        },
         {
             "model": "SM-P200",
             "version": "P200ZHU3CUE3",
@@ -45,11 +50,6 @@
             "model": "SM-A135U",
             "version": "A135USQU1AVB9",
             "description": "SM-A135U_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-F700U",
-            "version": "F700USQU5HVK5",
-            "description": "SM-F700U_NA_13_Opensource.zip"
         }
     ]
 }
