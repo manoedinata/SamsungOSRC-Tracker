@@ -1,6 +1,41 @@
 {
-    "fetch_date": "2023/03/28 14:37:16",
+    "fetch_date": "2023/03/28 15:23:54",
     "releases": [
+        {
+            "model": "SM-S916N",
+            "version": "S916NKSU1AWBD",
+            "description": "SM-S916N_KOR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-S918N",
+            "version": "S918NKSU1AWBD",
+            "description": "SM-S918N_KOR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A146M",
+            "version": "A146MUBU1AWB2",
+            "description": "SM-A146M_LATIN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A235M",
+            "version": "A235MUBU1BVL1",
+            "description": "SM-A235M_LATIN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M105G",
+            "version": "M105GDXSACWA1",
+            "description": "SM-M105G_MEA_QQ_Opensource.zip"
+        },
+        {
+            "model": "SM-T510",
+            "version": "T510XXU5CWA1",
+            "description": "SM-T510_EUR_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-P615N",
+            "version": "P615NKOU4FWA5",
+            "description": "SM-P615N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-A236B",
             "version": "A236BXXU1AVGB",
@@ -15,41 +50,6 @@
             "model": "SM-P200",
             "version": "P200ZHU3CUE3",
             "description": "SM-P200_HK_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-T738U",
-            "version": "T738USQS4BVL3",
-            "description": "SM-T738U_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-F707B",
-            "version": "F707BXXU7IVK6",
-            "description": "SM-F707B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T738U",
-            "version": "T738USQU4CVL7",
-            "description": "SM-T738U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M526B",
-            "version": "M526BXXU2CWB3",
-            "description": "SM-M526B_SWA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T509",
-            "version": "T509XXU1AVI1",
-            "description": "SM-T509_LATIN_12_Opensource.zip"
-        },
-        {
-            "model": "SM-T290",
-            "version": "T290KSU3CVD3",
-            "description": "SM-T290_KOR_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G736U",
-            "version": "G736USQU1AVF2",
-            "description": "SM-G736U_NA_12_Opensource.zip"
         }
     ]
 }
