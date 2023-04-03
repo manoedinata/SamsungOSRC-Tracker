@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/03 14:37:17",
+    "fetch_date": "2023/04/03 15:21:34",
     "releases": [
+        {
+            "model": "SM-F700F",
+            "version": "F700FXXUAIVK3",
+            "description": "SM-F700F_13_Opensource.zip"
+        },
         {
             "model": "SM-S911N",
             "version": "S911NKSU1AWBD",
@@ -45,11 +50,6 @@
             "model": "SM-P615N",
             "version": "P615NKOU4FWA5",
             "description": "SM-P615N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A236B",
-            "version": "A236BXXU1AVGB",
-            "description": "SM-A236B_12_Opensource.zip"
         }
     ]
 }
