@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/04/03 16:37:30",
+    "fetch_date": "2023/04/03 17:17:57",
     "releases": [
+        {
+            "model": "SM-N980F",
+            "version": "N980FXXU5GVJE, N980FXXS5GVK9",
+            "description": "SM-N980F_13_Opensource.zip"
+        },
+        {
+            "model": "SM-E5260",
+            "version": "E5260ZCU1BVD6",
+            "description": "SM-E5260_CHN_12_Opensource.zip"
+        },
+        {
+            "model": "SM-N981B",
+            "version": "N981BXXU5GVJE, N981BXXS5GVK9",
+            "description": "SM-N981B_13_Opensource.zip"
+        },
         {
             "model": "SM-F700F",
             "version": "F700FXXUAIVK3",
@@ -35,21 +50,6 @@
             "model": "SM-A235M",
             "version": "A235MUBU1BVL1",
             "description": "SM-A235M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M105G",
-            "version": "M105GDXSACWA1",
-            "description": "SM-M105G_MEA_QQ_Opensource.zip"
-        },
-        {
-            "model": "SM-T510",
-            "version": "T510XXU5CWA1",
-            "description": "SM-T510_EUR_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-P615N",
-            "version": "P615NKOU4FWA5",
-            "description": "SM-P615N_KOR_13_Opensource.zip"
         }
     ]
 }
