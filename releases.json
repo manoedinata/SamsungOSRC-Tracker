@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2023/04/04 13:38:32",
+    "fetch_date": "2023/04/04 14:14:59",
     "releases": [
+        {
+            "model": "SM-T500",
+            "version": "T500XXU4CWA1",
+            "description": "SM-T500_EUR_12_Opensource.zip"
+        },
+        {
+            "model": "SM-N770F",
+            "version": "N770FXXU8HWC1",
+            "description": "SM-N770F_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A045F",
+            "version": "A045FXXU1BWB1",
+            "description": "SM-A045F_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A037F",
+            "version": "A037FXXU2CWC3",
+            "description": "SM-A037F_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-S9180",
             "version": "S9180ZCU1AWBE",
@@ -30,26 +50,6 @@
             "model": "SM-S911N",
             "version": "S911NKSU1AWBD",
             "description": "SM-S911N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F916B",
-            "version": "F916BXXU2IVK3",
-            "description": "SM-F916B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S916N",
-            "version": "S916NKSU1AWBD",
-            "description": "SM-S916N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S918N",
-            "version": "S918NKSU1AWBD",
-            "description": "SM-S918N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A146M",
-            "version": "A146MUBU1AWB2",
-            "description": "SM-A146M_LATIN_13_Opensource.zip"
         }
     ]
 }
