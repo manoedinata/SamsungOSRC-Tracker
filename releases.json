@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/04 06:37:19",
+    "fetch_date": "2023/04/04 08:25:50",
     "releases": [
+        {
+            "model": "SM-S9180",
+            "version": "S9180ZCU1AWBE",
+            "description": "SM-S9180_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-N980F",
             "version": "N980FXXU5GVJE, N980FXXS5GVK9",
@@ -45,11 +50,6 @@
             "model": "SM-A146M",
             "version": "A146MUBU1AWB2",
             "description": "SM-A146M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A235M",
-            "version": "A235MUBU1BVL1",
-            "description": "SM-A235M_LATIN_13_Opensource.zip"
         }
     ]
 }
