@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/05 14:37:46",
+    "fetch_date": "2023/04/05 15:23:22",
     "releases": [
+        {
+            "model": "SM-A136U1",
+            "version": "A136U1UEU2CWB4",
+            "description": "SM-A136U1_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-T500",
             "version": "T500XXU4CWA1",
@@ -45,11 +50,6 @@
             "model": "SM-F700F",
             "version": "F700FXXUAIVK3",
             "description": "SM-F700F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S911N",
-            "version": "S911NKSU1AWBD",
-            "description": "SM-S911N_KOR_13_Opensource.zip"
         }
     ]
 }
