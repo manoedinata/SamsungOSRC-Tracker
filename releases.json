@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/07 14:37:30",
+    "fetch_date": "2023/04/07 15:20:32",
     "releases": [
+        {
+            "model": "SM-G9980",
+            "version": "G9980ZHU2DVK9",
+            "description": "SM-G9980_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-W2019",
             "version": "W2019ZCU2CUK1",
@@ -45,11 +50,6 @@
             "model": "SM-A037F",
             "version": "A037FXXU2CWC3",
             "description": "SM-A037F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S9180",
-            "version": "S9180ZCU1AWBE",
-            "description": "SM-S9180_CHN_13_Opensource.zip"
         }
     ]
 }
