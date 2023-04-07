@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/07 06:37:17",
+    "fetch_date": "2023/04/07 08:16:03",
     "releases": [
+        {
+            "model": "SM-G990U2",
+            "version": "G990U2SQU1CVF1",
+            "description": "SM-G990U2_NA_12_Opensource.zip"
+        },
         {
             "model": "SM-A037U",
             "version": "A037USQU1AUKE",
@@ -45,11 +50,6 @@
             "model": "SM-E5260",
             "version": "E5260ZCU1BVD6",
             "description": "SM-E5260_CHN_12_Opensource.zip"
-        },
-        {
-            "model": "SM-N981B",
-            "version": "N981BXXU5GVJE, N981BXXS5GVK9",
-            "description": "SM-N981B_13_Opensource.zip"
         }
     ]
 }
