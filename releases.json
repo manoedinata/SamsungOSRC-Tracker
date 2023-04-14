@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/14 15:20:53",
+    "fetch_date": "2023/04/14 15:37:47",
     "releases": [
+        {
+            "model": "SM-X700",
+            "version": "X700XXU2AVH4",
+            "description": "SM-X700_12_Opensource.zip"
+        },
         {
             "model": "SM-X900",
             "version": "X900XXU3BWC5",
@@ -45,11 +50,6 @@
             "model": "SM-G770F",
             "version": "G770FXXU6HWB4",
             "description": "SM-G770F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X906B",
-            "version": "X906BXXU2BVK4",
-            "description": "SM-X906B_13_Opensource.zip"
         }
     ]
 }
