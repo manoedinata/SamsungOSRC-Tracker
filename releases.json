@@ -1,10 +1,35 @@
 {
-    "fetch_date": "2023/04/14 12:15:35",
+    "fetch_date": "2023/04/14 12:37:19",
     "releases": [
+        {
+            "model": "SM-X900",
+            "version": "X900XXU3BWC5",
+            "description": "SM-X900_SEA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T975",
+            "version": "T975XXU2DWB2",
+            "description": "SM-T975_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A346B",
+            "version": "A346BXXU1AWB9",
+            "description": "SM-A346B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A146U",
+            "version": "A146USQU1AVKL",
+            "description": "SM-A146U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-A546V",
             "version": "A546VSQU1AWB9",
             "description": "SM-A546V_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M115F",
+            "version": "M115FXXS4CVL1",
+            "description": "SM-M115F_SEA_12_Opensource.zip"
         },
         {
             "model": "SM-A336B",
@@ -25,31 +50,6 @@
             "model": "SM-X906B",
             "version": "X906BXXU2BVK4",
             "description": "SM-X906B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G781B",
-            "version": "G781BXXS4HWC2",
-            "description": "SM-G781B_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X806B",
-            "version": "X806BXXU2BVK4",
-            "description": "SM-X806B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G9910",
-            "version": "G9910ZCU2DVK9",
-            "description": "SM-G9910_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G986N",
-            "version": "G986NKSU1HVJG",
-            "description": "SM-G986N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G981N",
-            "version": "G981NKSU1HVJG",
-            "description": "SM-G981N_KOR_13_Opensource.zip"
         }
     ]
 }
