@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/14 09:18:00",
+    "fetch_date": "2023/04/14 09:43:50",
     "releases": [
+        {
+            "model": "SM-A546V",
+            "version": "A546VSQU1AWB9",
+            "description": "SM-A546V_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-A336B",
             "version": "A336BXXU4CWB2",
@@ -45,11 +50,6 @@
             "model": "SM-G981N",
             "version": "G981NKSU1HVJG",
             "description": "SM-G981N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T865",
-            "version": "T865XXU5DWC3",
-            "description": "SM-T865_EUR_12_Opensource.zip"
         }
     ]
 }
