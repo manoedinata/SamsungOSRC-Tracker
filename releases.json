@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/17 09:21:31",
+    "fetch_date": "2023/04/17 09:45:40",
     "releases": [
+        {
+            "model": "SM-T975",
+            "version": "T975XXU2CVI2",
+            "description": "SM-T975_CIS_12_Opensource.zip"
+        },
         {
             "model": "SM-X700",
             "version": "X700XXU2AVH4",
@@ -45,11 +50,6 @@
             "model": "SM-A145F",
             "version": "A145FXXU1AWB1",
             "description": "SM-A145F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G770F",
-            "version": "G770FXXU6HWB4",
-            "description": "SM-G770F_EUR_13_Opensource.zip"
         }
     ]
 }
