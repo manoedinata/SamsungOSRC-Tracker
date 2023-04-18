@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/18 15:21:34",
+    "fetch_date": "2023/04/18 15:38:29",
     "releases": [
+        {
+            "model": "SM-A022M",
+            "version": "A022MUBS3BWAA",
+            "description": "SM-A022M_NA_RR_Opensource.zip"
+        },
         {
             "model": "SM-T975",
             "version": "T975XXU2CVI2",
@@ -45,11 +50,6 @@
             "model": "SM-A336B",
             "version": "A336BXXU4CWB2",
             "description": "SM-A336B_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A145F",
-            "version": "A145FXXU1AWB1",
-            "description": "SM-A145F_13_Opensource.zip"
         }
     ]
 }
