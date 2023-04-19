@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/04/19 13:39:06",
+    "fetch_date": "2023/04/19 14:15:48",
     "releases": [
         {
             "model": "SM-G990E",
@@ -14,7 +14,7 @@
         {
             "model": "SM-A035F",
             "version": "A035FXXU2CWA8",
-            "description": "SM-A035F_13_Opensource.zip"
+            "description": "SM-A035F_13_Opensource.zip, SM-A035F_13_Opensource_A035FXXS3CWB4.zip"
         },
         {
             "model": "SM-M146B",
