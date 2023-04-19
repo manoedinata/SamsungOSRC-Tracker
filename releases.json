@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/04/19 12:37:15",
+    "fetch_date": "2023/04/19 13:21:56",
     "releases": [
+        {
+            "model": "SM-G990E",
+            "version": "G990EXXS4EWC1",
+            "description": "SM-G990E_SEA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-F415F",
+            "version": "F415FXXS2CVK1",
+            "description": "SM-F415F_SWA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A035F",
+            "version": "A035FXXU2CWA8",
+            "description": "SM-A035F_13_Opensource.zip"
+        },
         {
             "model": "SM-M146B",
             "version": "M146BXXU1AWB5",
@@ -35,21 +50,6 @@
             "model": "SM-X900",
             "version": "X900XXU3BWC5",
             "description": "SM-X900_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T975",
-            "version": "T975XXU2DWB2",
-            "description": "SM-T975_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A346B",
-            "version": "A346BXXU1AWB9",
-            "description": "SM-A346B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A146U",
-            "version": "A146USQU1AVKL",
-            "description": "SM-A146U_NA_13_Opensource.zip"
         }
     ]
 }
