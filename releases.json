@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/04/19 06:37:33",
+    "fetch_date": "2023/04/19 08:22:38",
     "releases": [
+        {
+            "model": "SM-M146B",
+            "version": "M146BXXU1AWB5",
+            "description": "SM-M146B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M546B",
+            "version": "M546BXXU1AWB3",
+            "description": "SM-M546B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A546B",
+            "version": "A546BXXU1AWB7",
+            "description": "SM-A546B_13_Opensource.zip"
+        },
         {
             "model": "SM-A022M",
             "version": "A022MUBS3BWAA",
@@ -35,21 +50,6 @@
             "model": "SM-A146U",
             "version": "A146USQU1AVKL",
             "description": "SM-A146U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A546V",
-            "version": "A546VSQU1AWB9",
-            "description": "SM-A546V_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M115F",
-            "version": "M115FXXS4CVL1",
-            "description": "SM-M115F_SEA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A336B",
-            "version": "A336BXXU4CWB2",
-            "description": "SM-A336B_EUR_13_Opensource.zip"
         }
     ]
 }
