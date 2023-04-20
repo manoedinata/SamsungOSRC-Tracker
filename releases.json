@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/20 10:37:26",
+    "fetch_date": "2023/04/20 11:20:28",
     "releases": [
+        {
+            "model": "SM-A135F",
+            "version": "A135FXXU3CWB9",
+            "description": "SM-A135F_13_Opensource.zip"
+        },
         {
             "model": "SM-G990E",
             "version": "G990EXXS4EWC1",
@@ -45,11 +50,6 @@
             "model": "SM-X700",
             "version": "X700XXU2AVH4",
             "description": "SM-X700_12_Opensource.zip"
-        },
-        {
-            "model": "SM-X900",
-            "version": "X900XXU3BWC5",
-            "description": "SM-X900_SEA_13_Opensource.zip"
         }
     ]
 }
