@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/21 19:31:56",
+    "fetch_date": "2023/04/21 20:19:46",
     "releases": [
+        {
+            "model": "SM-G991N",
+            "version": "G991NKSU3ZVJ3",
+            "description": "SM-G991N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-X706N",
             "version": "X706NKOU2CVK5",
@@ -45,11 +50,6 @@
             "model": "SM-M546B",
             "version": "M546BXXU1AWB3",
             "description": "SM-M546B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A546B",
-            "version": "A546BXXU1AWB7",
-            "description": "SM-A546B_13_Opensource.zip"
         }
     ]
 }
