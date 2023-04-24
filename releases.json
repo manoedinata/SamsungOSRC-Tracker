@@ -1,6 +1,31 @@
 {
-    "fetch_date": "2023/04/25 06:16:32",
+    "fetch_date": "2023/04/25 06:37:41",
     "releases": [
+        {
+            "model": "SM-S9160",
+            "version": "S9160ZCU1AWBE",
+            "description": "SM-S9160_CHN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-F711B",
+            "version": "F711BXXU4EWCC",
+            "description": "SM-F711B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M325F",
+            "version": "M325FXXU5DWC1",
+            "description": "SM-M325F_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T220",
+            "version": "T220XXU2CWB3",
+            "description": "SM-T220_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-E025F",
+            "version": "E025FXXS3CVK1",
+            "description": "SM-E025F_SWA_12_Opensource.zip"
+        },
         {
             "model": "SM-G991N",
             "version": "G991NKSU3ZVJ3",
@@ -25,31 +50,6 @@
             "model": "SM-A135F",
             "version": "A135FXXU3CWB9",
             "description": "SM-A135F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G990E",
-            "version": "G990EXXS4EWC1",
-            "description": "SM-G990E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F415F",
-            "version": "F415FXXS2CVK1",
-            "description": "SM-F415F_SWA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A035F",
-            "version": "A035FXXU2CWA8",
-            "description": "SM-A035F_13_Opensource.zip, SM-A035F_13_Opensource_A035FXXS3CWB4.zip"
-        },
-        {
-            "model": "SM-M146B",
-            "version": "M146BXXU1AWB5",
-            "description": "SM-M146B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M546B",
-            "version": "M546BXXU1AWB3",
-            "description": "SM-M546B_13_Opensource.zip"
         }
     ]
 }
