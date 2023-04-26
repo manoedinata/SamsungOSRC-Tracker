@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/04/26 15:21:15",
+    "fetch_date": "2023/04/26 15:38:11",
     "releases": [
+        {
+            "model": "SM-N975U",
+            "version": "N975USQU7HWB2",
+            "description": "SM-N975U_NA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-G980F",
+            "version": "G980FXXUGHWCG",
+            "description": "SM-G980F_13_Opensource.zip"
+        },
         {
             "model": "SM-A9080",
             "version": "A9080ZCU4EWC3",
@@ -40,16 +50,6 @@
             "model": "SM-E025F",
             "version": "E025FXXS3CVK1",
             "description": "SM-E025F_SWA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G991N",
-            "version": "G991NKSU3ZVJ3",
-            "description": "SM-G991N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X706N",
-            "version": "X706NKOU2CVK5",
-            "description": "SM-X706N_KOR_13_Opensource.zip"
         }
     ]
 }
