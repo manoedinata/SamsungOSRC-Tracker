@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/26 12:37:35",
+    "fetch_date": "2023/04/26 13:21:42",
     "releases": [
+        {
+            "model": "SM-S918B",
+            "version": "S918BXXU1AWC8",
+            "description": "SM-S918B_13_Opensource.zip"
+        },
         {
             "model": "SM-A236V",
             "version": "A236VSQS1AWA5",
@@ -45,11 +50,6 @@
             "model": "SM-X806N",
             "version": "X806NKOU2CVK5",
             "description": "SM-X806N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X906N",
-            "version": "X906NKOU2CVK5",
-            "description": "SM-X906N_KOR_13_Opensource.zip"
         }
     ]
 }
