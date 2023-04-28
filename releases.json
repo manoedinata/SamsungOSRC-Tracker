@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/04/28 11:37:33",
+    "fetch_date": "2023/04/28 12:15:41",
     "releases": [
+        {
+            "model": "SM-G780F",
+            "version": "G780FXXSBFWD1",
+            "description": "SM-G780F_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-G990B2",
             "version": "G990B2XXS2EWC5",
@@ -45,11 +50,6 @@
             "model": "SM-S9160",
             "version": "S9160ZCU1AWBE",
             "description": "SM-S9160_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F711B",
-            "version": "F711BXXU4EWCC",
-            "description": "SM-F711B_13_Opensource.zip"
         }
     ]
 }
