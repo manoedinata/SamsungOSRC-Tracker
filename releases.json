@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/05/02 06:37:41",
+    "fetch_date": "2023/05/02 08:22:45",
     "releases": [
+        {
+            "model": "SM-G988N",
+            "version": "G988NKSU3IWCG",
+            "description": "SM-G988N_KOR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M127F",
+            "version": "M127FXXU4DWC4",
+            "description": "SM-M127F_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-S9180",
             "version": "S9180ZHU1AWCA",
@@ -40,16 +50,6 @@
             "model": "SM-G780G",
             "version": "G780GXXU3EWB2",
             "description": "SM-G780G_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-N975U",
-            "version": "N975USQU7HWB2",
-            "description": "SM-N975U_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G980F",
-            "version": "G980FXXUGHWCG",
-            "description": "SM-G980F_13_Opensource.zip"
         }
     ]
 }
