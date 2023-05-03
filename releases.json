@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/03 14:37:19",
+    "fetch_date": "2023/05/03 15:20:22",
     "releases": [
+        {
+            "model": "SM-G9910",
+            "version": "G9910ZCU2EWB2",
+            "description": "SM-G9910_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-M135F",
             "version": "M135FXXU2CWB4",
@@ -45,11 +50,6 @@
             "model": "SM-G780F",
             "version": "G780FXXSBFWD1",
             "description": "SM-G780F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G990B2",
-            "version": "G990B2XXS2EWC5",
-            "description": "SM-G990B2_EUR_13_Opensource.zip"
         }
     ]
 }
