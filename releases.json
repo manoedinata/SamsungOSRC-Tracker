@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/05/04 10:37:44",
+    "fetch_date": "2023/05/04 11:20:05",
     "releases": [
+        {
+            "model": "SM-G977U",
+            "version": "G977UUCU9HWB5",
+            "description": "SM-G977U_NA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-G970U",
+            "version": "G970USQS8IWC1",
+            "description": "SM-G970U_NA_12_Opensource.zip"
+        },
         {
             "model": "SM-G973U",
             "version": "G973USQS8IWC1",
@@ -40,16 +50,6 @@
             "model": "SM-M127F",
             "version": "M127FXXU4DWC4",
             "description": "SM-M127F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S9180",
-            "version": "S9180ZHU1AWCA",
-            "description": "SM-S9180_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A225F",
-            "version": "A225FXXU4DWB8",
-            "description": "SM-A225F_EUR_13_Opensource.zip"
         }
     ]
 }
