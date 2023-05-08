@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/08 15:37:31",
+    "fetch_date": "2023/05/08 16:16:47",
     "releases": [
+        {
+            "model": "SM-A6050",
+            "version": "A6050ZHU6CVA2",
+            "description": "SM-A6050_HK_QQ_Opensource.zip"
+        },
         {
             "model": "SM-G977U",
             "version": "G977UUCU9HWB5",
@@ -45,11 +50,6 @@
             "model": "SM-G988N",
             "version": "G988NKSU3IWCG",
             "description": "SM-G988N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M127F",
-            "version": "M127FXXU4DWC4",
-            "description": "SM-M127F_CIS_13_Opensource.zip"
         }
     ]
 }
