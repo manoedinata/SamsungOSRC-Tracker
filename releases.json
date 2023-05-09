@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/05/09 12:37:26",
+    "fetch_date": "2023/05/09 13:21:31",
     "releases": [
         {
             "model": "SM-N970U",
@@ -9,7 +9,7 @@
         {
             "model": "SM-S916B",
             "version": "S916BXXU1AWC8",
-            "description": "SM-S916B_13_Opensource.zip"
+            "description": "SM-S916B_13_Opensource.zip, SM-S916B_13_Opensource_S916BXXS1AWD1.zip"
         },
         {
             "model": "SM-G998B",
