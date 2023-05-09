@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/05/09 06:37:22",
+    "fetch_date": "2023/05/09 08:23:08",
     "releases": [
+        {
+            "model": "SM-S916B",
+            "version": "S916BXXU1AWC8",
+            "description": "SM-S916B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G998B",
+            "version": "G998BXXU7EWCH",
+            "description": "SM-G998B_13_Opensource.zip"
+        },
         {
             "model": "SM-A6050",
             "version": "A6050ZHU6CVA2",
@@ -40,16 +50,6 @@
             "model": "SM-M135F",
             "version": "M135FXXU2CWB4",
             "description": "SM-M135F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A405FN",
-            "version": "A405FNXXS4CWB5",
-            "description": "SM-A405FN_EUR_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G988N",
-            "version": "G988NKSU3IWCG",
-            "description": "SM-G988N_KOR_13_Opensource.zip"
         }
     ]
 }
