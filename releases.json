@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/09 15:37:39",
+    "fetch_date": "2023/05/09 16:16:22",
     "releases": [
+        {
+            "model": "SM-N985F",
+            "version": "N985FXXU5HWAC, N985FXXS5HWC1",
+            "description": "SM-N985F_13_Opensource.zip"
+        },
         {
             "model": "SM-N970U",
             "version": "N970USQU7HWB2",
@@ -45,11 +50,6 @@
             "model": "SM-S9080",
             "version": "S9080ZCU2BVL1",
             "description": "SM-S9080_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G9910",
-            "version": "G9910ZCU2EWB2",
-            "description": "SM-G9910_CHN_13_Opensource.zip"
         }
     ]
 }
