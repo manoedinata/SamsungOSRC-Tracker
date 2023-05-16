@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/16 14:37:30",
+    "fetch_date": "2023/05/16 15:20:33",
     "releases": [
+        {
+            "model": "SM-N986U",
+            "version": "N986USQU4HWD1",
+            "description": "SM-N986U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-G9860",
             "version": "G9860ZCU4HWD2",
@@ -45,11 +50,6 @@
             "model": "SM-S9010",
             "version": "S9010ZCU2BVL1",
             "description": "SM-S9010_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A125M",
-            "version": "A125MUBU4CVL3",
-            "description": "SM-A125M_LATIN_12_Opensource.zip"
         }
     ]
 }
