@@ -1,9 +1,14 @@
 {
-    "fetch_date": "2023/05/17 06:37:34",
+    "fetch_date": "2023/05/17 08:24:26",
     "releases": [
         {
-            "model": "SM-N986U",
-            "version": "N986USQU4HWD1",
+            "model": "SM-G960U",
+            "version": "G960USQU9FVB2",
+            "description": "SM-G960U_NA_QQ_Opensource.zip"
+        },
+        {
+            "model": "SM-N986USM-N986U1",
+            "version": "N986USQU4HWD1, N986U1UEU4HWD1",
             "description": "SM-N986U_NA_13_Opensource.zip"
         },
         {
@@ -45,11 +50,6 @@
             "model": "SM-M215F",
             "version": "M215FXXU3CWC2",
             "description": "SM-M215F_EUR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-S9010",
-            "version": "S9010ZCU2BVL1",
-            "description": "SM-S9010_CHN_13_Opensource.zip"
         }
     ]
 }
