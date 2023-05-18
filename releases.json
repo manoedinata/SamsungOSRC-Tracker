@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/18 13:21:24",
+    "fetch_date": "2023/05/18 13:37:43",
     "releases": [
+        {
+            "model": "SM-A245F",
+            "version": "A245FXXU1AWC3",
+            "description": "SM-A245F_13_Opensource.zip"
+        },
         {
             "model": "SM-S9060",
             "version": "S9060ZCU2BVL1",
@@ -45,11 +50,6 @@
             "model": "SM-M307F",
             "version": "M307FXXS4CWC2",
             "description": "SM-M307F_SWA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G525F",
-            "version": "G525FXXU6CWD1",
-            "description": "SM-G525F_EUR_13_Opensource.zip"
         }
     ]
 }
