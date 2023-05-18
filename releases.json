@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/18 06:37:26",
+    "fetch_date": "2023/05/18 08:22:46",
     "releases": [
+        {
+            "model": "SM-S9060",
+            "version": "S9060ZCU2BVL1",
+            "description": "SM-S9060_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-G9880",
             "version": "G9880ZCU4HWD1",
@@ -45,11 +50,6 @@
             "model": "SM-G525F",
             "version": "G525FXXU6CWD1",
             "description": "SM-G525F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G9810",
-            "version": "G9810ZCU4HWD1",
-            "description": "SM-G9810_CHN_13_Opensource.zip"
         }
     ]
 }
