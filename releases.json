@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/05/22 11:37:18",
+    "fetch_date": "2023/05/22 12:15:53",
     "releases": [
+        {
+            "model": "SM-A528B",
+            "version": "A528BXXU3EWC6",
+            "description": "SM-A528B_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-S9180",
             "version": "S9180ZCU1AWCA",
@@ -45,11 +50,6 @@
             "model": "SM-G960U",
             "version": "G960USQU9FVB2",
             "description": "SM-G960U_NA_QQ_Opensource.zip"
-        },
-        {
-            "model": "SM-N986USM-N986U1",
-            "version": "N986USQU4HWD1, N986U1UEU4HWD1",
-            "description": "SM-N986U_NA_13_Opensource.zip"
         }
     ]
 }
