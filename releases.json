@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2023/05/30 13:37:22",
+    "fetch_date": "2023/05/30 14:14:27",
     "releases": [
+        {
+            "model": "SM-T225",
+            "version": "T225XXS3CWC2",
+            "description": "SM-T225_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-P615",
+            "version": "P615XXS5FWD2",
+            "description": "SM-P615_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-P610",
+            "version": "P610XXS3FWD2",
+            "description": "SM-P610_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M515F",
+            "version": "M515FXXS4DWA3",
+            "description": "SM-M515F_CIS_12_Opensource.zip"
+        },
         {
             "model": "SM-S9160",
             "version": "S9160ZCU1AWD3",
@@ -30,26 +50,6 @@
             "model": "SM-S908N",
             "version": "S908NKSU2BVJA",
             "description": "SM-S908N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S906N",
-            "version": "S906NKSU2BVJA",
-            "description": "SM-S906N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A528B",
-            "version": "A528BXXU3EWC6",
-            "description": "SM-A528B_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A307FN",
-            "version": "A307FNXXU3CVJ2",
-            "description": "SM-A307FN_CIS_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-A217F",
-            "version": "A217FXXS8DWC2",
-            "description": "SM-A217F_CIS_12_Opensource.zip"
         }
     ]
 }
