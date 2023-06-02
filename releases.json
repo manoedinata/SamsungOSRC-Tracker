@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/02 13:37:36",
+    "fetch_date": "2023/06/02 14:14:28",
     "releases": [
+        {
+            "model": "SM-A526B",
+            "version": "A526BXXU3EWD2",
+            "description": "SM-A526B_13_Opensource.zip"
+        },
         {
             "model": "SM-S906B",
             "version": "S906BXXU4CWCG",
@@ -45,11 +50,6 @@
             "model": "SM-A736B",
             "version": "A736BXXS3CWE1",
             "description": "SM-A736B_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F721N",
-            "version": "F721NKSU1CWB1",
-            "description": "SM-F721N_KOR_13_Opensource.zip"
         }
     ]
 }
