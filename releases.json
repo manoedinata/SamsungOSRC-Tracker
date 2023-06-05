@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/06/05 08:46:23",
+    "fetch_date": "2023/06/05 09:51:45",
     "releases": [
+        {
+            "model": "SM-S911J",
+            "version": "SCG19KDU1AWC2",
+            "description": "SM-S911J_JPN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A245N",
+            "version": "A245NKSU1AWC4",
+            "description": "SM-A245N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-A526B",
             "version": "A526BXXU3EWD2",
@@ -40,16 +50,6 @@
             "model": "SM-S9160",
             "version": "S9160ZCU1AWD3",
             "description": "SM-S9160_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S9160",
-            "version": "S9160ZHS1AWD5",
-            "description": "SM-S9160_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A736B",
-            "version": "A736BXXS3CWE1",
-            "description": "SM-A736B_LATIN_13_Opensource.zip"
         }
     ]
 }
