@@ -1,10 +1,15 @@
 {
-    "fetch_date": "2023/06/07 08:49:10",
+    "fetch_date": "2023/06/07 09:54:22",
     "releases": [
         {
             "model": "SM-G525F",
             "version": "G525FXXS5BVK1",
             "description": "SM-G525F_EUR_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A225F",
+            "version": "A225FXXS5DWD1",
+            "description": "SM-A225F_EUR_13_Opensource.zip"
         },
         {
             "model": "SM-S911J",
@@ -45,11 +50,6 @@
             "model": "SM-P610",
             "version": "P610XXS3FWD2",
             "description": "SM-P610_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M515F",
-            "version": "M515FXXS4DWA3",
-            "description": "SM-M515F_CIS_12_Opensource.zip"
         }
     ]
 }
