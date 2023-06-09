@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/06/09 19:32:35",
+    "fetch_date": "2023/06/09 20:19:29",
     "releases": [
         {
             "model": "SM-A536B",
@@ -29,7 +29,7 @@
         {
             "model": "SM-A526B",
             "version": "A526BXXU3EWD2",
-            "description": "SM-A526B_13_Opensource.zip"
+            "description": "SM-A526B_13_Opensource.zip, SM-A526B_13_Opensource_A526BXXS3EWD6.zip"
         },
         {
             "model": "SM-S906B",
