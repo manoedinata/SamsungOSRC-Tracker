@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/13 13:37:51",
+    "fetch_date": "2023/06/13 14:14:59",
     "releases": [
+        {
+            "model": "SM-M526BR",
+            "version": "M526BRXXU2CWD1",
+            "description": "SM-M526BR_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-S901J",
             "version": "SCG13KDU1BWD1",
@@ -45,11 +50,6 @@
             "model": "SM-A526B",
             "version": "A526BXXU3EWD2",
             "description": "SM-A526B_13_Opensource.zip, SM-A526B_13_Opensource_A526BXXS3EWD6.zip"
-        },
-        {
-            "model": "SM-S906B",
-            "version": "S906BXXU4CWCG",
-            "description": "SM-S906B_13_Opensource.zip, SM-S906B_13_Opensource_S906BXXS4CWD3.zip"
         }
     ]
 }
