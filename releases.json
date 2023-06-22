@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/22 18:37:30",
+    "fetch_date": "2023/06/22 19:33:56",
     "releases": [
+        {
+            "model": "SM-A125W",
+            "version": "A125WVLS5BVL2",
+            "description": "SM-A125W_NA_12_Opensource.zip"
+        },
         {
             "model": "SM-A127F",
             "version": "A127FXXU8DWC3",
@@ -45,11 +50,6 @@
             "model": "SM-A536B",
             "version": "A536BXXU5CWD1",
             "description": "SM-A536B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G525F",
-            "version": "G525FXXS5BVK1",
-            "description": "SM-G525F_EUR_12_Opensource.zip"
         }
     ]
 }
