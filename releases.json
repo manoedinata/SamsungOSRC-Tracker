@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/26 16:37:58",
+    "fetch_date": "2023/06/26 17:20:45",
     "releases": [
+        {
+            "model": "SM-A536E",
+            "version": "A536EXXS5CWDA",
+            "description": "SM-A536E_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-A125W",
             "version": "A125WVLS5BVL2",
@@ -45,11 +50,6 @@
             "model": "SM-S9110",
             "version": "S9110ZCU1AWD3",
             "description": "SM-S9110_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A536B",
-            "version": "A536BXXU5CWD1",
-            "description": "SM-A536B_13_Opensource.zip"
         }
     ]
 }
