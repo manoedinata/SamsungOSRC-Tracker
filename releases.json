@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/27 13:42:15",
+    "fetch_date": "2023/06/27 14:17:33",
     "releases": [
+        {
+            "model": "SM-N970F",
+            "version": "N970FXXS8HWE5",
+            "description": "SM-N970F_LATIN_12_Opensource.zip"
+        },
         {
             "model": "SM-A037F",
             "version": "A037FXXS3CWC7",
@@ -45,11 +50,6 @@
             "model": "SM-M526BR",
             "version": "M526BRXXU2CWD1",
             "description": "SM-M526BR_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S901J",
-            "version": "SCG13KDU1BWD1",
-            "description": "SM-S901J_JPN_13_Opensource.zip"
         }
     ]
 }
