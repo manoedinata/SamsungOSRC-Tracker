@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/06/28 06:37:45",
+    "fetch_date": "2023/06/28 08:50:59",
     "releases": [
+        {
+            "model": "SM-N770F",
+            "version": "N770FXXU9HWE1",
+            "description": "SM-N770F_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G990B2",
+            "version": "G990B2XXS3EWE3",
+            "description": "SM-G990B2_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-N970F",
             "version": "N970FXXS8HWE5",
@@ -40,16 +50,6 @@
             "model": "SM-A707F",
             "version": "A707FDDS3CVJ1",
             "description": "SM-A707F_SWA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-A546E",
-            "version": "A546EXXU2AWDB",
-            "description": "SM-A546E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M526BR",
-            "version": "M526BRXXU2CWD1",
-            "description": "SM-M526BR_EUR_13_Opensource.zip"
         }
     ]
 }
