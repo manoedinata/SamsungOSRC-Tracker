@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/28 11:41:04",
+    "fetch_date": "2023/06/28 12:17:57",
     "releases": [
+        {
+            "model": "SM-S908E",
+            "version": "S908EXXU5CWEC",
+            "description": "SM-S908E_13_Opensource.zip"
+        },
         {
             "model": "SM-N770F",
             "version": "N770FXXU9HWE1",
@@ -45,11 +50,6 @@
             "model": "SM-A307FN",
             "version": "A307FNXXS3CWC1",
             "description": "SM-A307FN_CIS_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-A707F",
-            "version": "A707FDDS3CVJ1",
-            "description": "SM-A707F_SWA_RR_Opensource.zip"
         }
     ]
 }
