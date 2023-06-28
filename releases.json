@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/28 13:42:09",
+    "fetch_date": "2023/06/28 14:17:27",
     "releases": [
+        {
+            "model": "SM-T577",
+            "version": "T577JXU3DVIB",
+            "description": "SM-T577_MEA_12_Opensource.zip"
+        },
         {
             "model": "SM-S908E",
             "version": "S908EXXU5CWEC",
@@ -45,11 +50,6 @@
             "model": "SM-A127F",
             "version": "A127FXXU8DWC3",
             "description": "SM-A127F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A307FN",
-            "version": "A307FNXXS3CWC1",
-            "description": "SM-A307FN_CIS_RR_Opensource.zip"
         }
     ]
 }
