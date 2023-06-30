@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/06/30 16:17:33",
+    "fetch_date": "2023/06/30 16:37:36",
     "releases": [
+        {
+            "model": "SM-T867U",
+            "version": "T867USQU8DWC3",
+            "description": "SM-T867U_NA_12_Opensource.zip"
+        },
         {
             "model": "SM-A037F",
             "version": "A037FXXU3CWD3",
@@ -45,11 +50,6 @@
             "model": "SM-A037F",
             "version": "A037FXXS3CWC7",
             "description": "SM-A037F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A525F",
-            "version": "A525FXXS5DWD2",
-            "description": "SM-A525F_CIS_13_Opensource.zip"
         }
     ]
 }
