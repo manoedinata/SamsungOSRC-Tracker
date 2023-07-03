@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/03 15:40:30",
+    "fetch_date": "2023/07/03 16:18:42",
     "releases": [
+        {
+            "model": "SM-J327W",
+            "version": "J327WVLS6BTK2",
+            "description": "SM-J327W_NA_OO_Opensource.zip"
+        },
         {
             "model": "SM-J530F",
             "version": "J530FXXS9CUE5",
@@ -45,11 +50,6 @@
             "model": "SM-S908E",
             "version": "S908EXXU5CWEC",
             "description": "SM-S908E_13_Opensource.zip"
-        },
-        {
-            "model": "SM-N770F",
-            "version": "N770FXXU9HWE1",
-            "description": "SM-N770F_EUR_13_Opensource.zip"
         }
     ]
 }
