@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/03 13:24:07",
+    "fetch_date": "2023/07/03 13:41:35",
     "releases": [
+        {
+            "model": "SM-G996N",
+            "version": "G996NKSU4EWCH",
+            "description": "SM-G996N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-T867U",
             "version": "T867USQU8DWC3",
@@ -45,11 +50,6 @@
             "model": "SM-N970F",
             "version": "N970FXXS8HWE5",
             "description": "SM-N970F_LATIN_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A037F",
-            "version": "A037FXXS3CWC7",
-            "description": "SM-A037F_CIS_13_Opensource.zip"
         }
     ]
 }
