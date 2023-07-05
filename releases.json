@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/05 15:42:43",
+    "fetch_date": "2023/07/05 16:19:18",
     "releases": [
+        {
+            "model": "SM-M536B",
+            "version": "M536BXXU3CWF1",
+            "description": "SM-M536B_13_Opensource.zip"
+        },
         {
             "model": "SM-J327W",
             "version": "J327WVLS6BTK2",
@@ -45,11 +50,6 @@
             "model": "SM-T577",
             "version": "T577JXU3DVIB",
             "description": "SM-T577_MEA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-S908E",
-            "version": "S908EXXU5CWEC",
-            "description": "SM-S908E_13_Opensource.zip"
         }
     ]
 }
