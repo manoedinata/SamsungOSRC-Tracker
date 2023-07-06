@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/06 14:18:06",
+    "fetch_date": "2023/07/06 14:37:17",
     "releases": [
+        {
+            "model": "SM-G988N",
+            "version": "G988NKSU3IWE1",
+            "description": "SM-G988N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-J710GN",
             "version": "J710GNDXS4CTJ1",
@@ -45,11 +50,6 @@
             "model": "SM-J530F",
             "version": "J530FXXS9CUE5",
             "description": "SM-J530F_KOR_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-A516N",
-            "version": "A516NKOU5FWB5",
-            "description": "SM-A516N_KOR_13_Opensource.zip"
         }
     ]
 }
