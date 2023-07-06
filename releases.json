@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/06 10:02:25",
+    "fetch_date": "2023/07/06 10:45:21",
     "releases": [
+        {
+            "model": "SM-M127G",
+            "version": "M127GDDS3AUL1",
+            "description": "SM-M127G_SWA_RR_Opensource.zip"
+        },
         {
             "model": "SM-A336E",
             "version": "A336EDXS6CWE3",
@@ -45,11 +50,6 @@
             "model": "SM-S911B",
             "version": "S911BXXU2AWF1",
             "description": "SM-S911B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S918B",
-            "version": "S918BXXU2AWF1",
-            "description": "SM-S918B_13_Opensource.zip"
         }
     ]
 }
