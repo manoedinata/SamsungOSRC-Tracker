@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2023/07/06 12:39:25",
+    "fetch_date": "2023/07/06 13:25:30",
     "releases": [
+        {
+            "model": "SM-J710GN",
+            "version": "J710GNDXS4CTJ1",
+            "description": "SM-J710GN_SEA_OO_Opensource.zip"
+        },
+        {
+            "model": "SM-E625F",
+            "version": "E625FDDU4CWF1",
+            "description": "SM-E625F_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G990E",
+            "version": "G990EXXU6EWF2",
+            "description": "SM-G990E_SEA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G780F",
+            "version": "G780FXXUCFWE5",
+            "description": "SM-G780F_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-M127G",
             "version": "M127GDDS3AUL1",
@@ -30,26 +50,6 @@
             "model": "SM-A516N",
             "version": "A516NKOU5FWB5",
             "description": "SM-A516N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G996N",
-            "version": "G996NKSU4EWCH",
-            "description": "SM-G996N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T867U",
-            "version": "T867USQU8DWC3",
-            "description": "SM-T867U_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A037F",
-            "version": "A037FXXU3CWD3",
-            "description": "SM-A037F_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S911B",
-            "version": "S911BXXU2AWF1",
-            "description": "SM-S911B_13_Opensource.zip"
         }
     ]
 }
