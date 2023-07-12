@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/12 09:57:41",
+    "fetch_date": "2023/07/12 10:27:56",
     "releases": [
+        {
+            "model": "SM-M325FV",
+            "version": "M325FVXXS6DWD3",
+            "description": "SM-M325FV_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-T505",
             "version": "T505XXU4CWD2",
@@ -45,11 +50,6 @@
             "model": "SM-M127G",
             "version": "M127GDDS3AUL1",
             "description": "SM-M127G_SWA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-A336E",
-            "version": "A336EDXS6CWE3",
-            "description": "SM-A336E_SEA_13_Opensource.zip"
         }
     ]
 }
