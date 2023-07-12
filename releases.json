@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/12 06:37:58",
+    "fetch_date": "2023/07/12 08:51:04",
     "releases": [
+        {
+            "model": "SM-A127F",
+            "version": "A127FXXU9DWE4",
+            "description": "SM-A127F_CIS_13_Opensource.zip"
+        },
         {
             "model": "SM-G988N",
             "version": "G988NKSU3IWE1",
@@ -45,11 +50,6 @@
             "model": "SM-J327W",
             "version": "J327WVLS6BTK2",
             "description": "SM-J327W_NA_OO_Opensource.zip"
-        },
-        {
-            "model": "SM-J530F",
-            "version": "J530FXXS9CUE5",
-            "description": "SM-J530F_KOR_PP_Opensource.zip"
         }
     ]
 }
