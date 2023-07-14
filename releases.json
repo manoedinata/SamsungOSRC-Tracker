@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/14 11:40:25",
+    "fetch_date": "2023/07/14 12:17:15",
     "releases": [
+        {
+            "model": "SM-N970F",
+            "version": "N970FXXS8HWC3",
+            "description": "SM-N970F_EUR_12_Opensource.zip"
+        },
         {
             "model": "SM-M325FV",
             "version": "M325FVXXS6DWD3",
@@ -45,11 +50,6 @@
             "model": "SM-G780F",
             "version": "G780FXXUCFWE5",
             "description": "SM-G780F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M127G",
-            "version": "M127GDDS3AUL1",
-            "description": "SM-M127G_SWA_RR_Opensource.zip"
         }
     ]
 }
