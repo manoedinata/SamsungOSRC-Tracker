@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/18 16:17:06",
+    "fetch_date": "2023/07/18 16:37:30",
     "releases": [
+        {
+            "model": "SM-A715F",
+            "version": "A715FXXUADWE1",
+            "description": "SM-A715F_SEA_13_Opensource.zip"
+        },
         {
             "model": "SM-A145M",
             "version": "A145MUBU1AWB3",
@@ -45,11 +50,6 @@
             "model": "SM-J710GN",
             "version": "J710GNDXS4CTJ1",
             "description": "SM-J710GN_SEA_OO_Opensource.zip"
-        },
-        {
-            "model": "SM-E625F",
-            "version": "E625FDDU4CWF1",
-            "description": "SM-E625F_SWA_13_Opensource.zip"
         }
     ]
 }
