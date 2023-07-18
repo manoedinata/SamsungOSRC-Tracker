@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/18 16:37:30",
+    "fetch_date": "2023/07/18 17:18:35",
     "releases": [
+        {
+            "model": "SM-A125F",
+            "version": "A125FXXS3CWE1",
+            "description": "SM-A125F_SEA_12_Opensource.zip"
+        },
         {
             "model": "SM-A715F",
             "version": "A715FXXUADWE1",
@@ -45,11 +50,6 @@
             "model": "SM-G988N",
             "version": "G988NKSU3IWE1",
             "description": "SM-G988N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-J710GN",
-            "version": "J710GNDXS4CTJ1",
-            "description": "SM-J710GN_SEA_OO_Opensource.zip"
         }
     ]
 }
