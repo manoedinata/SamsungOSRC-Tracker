@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/07/19 12:15:17",
+    "fetch_date": "2023/07/19 12:37:25",
     "releases": [
+        {
+            "model": "SM-N976N",
+            "version": "N976NKSU2HWD2",
+            "description": "SM-N976N_KOR_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A546E",
+            "version": "A546EXXU3AWF5",
+            "description": "SM-A546E_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G991U1",
+            "version": "G991U1UEU5EWB1",
+            "description": "SM-G991U1_SEA_13_Opensource.zip"
+        },
         {
             "model": "SM-A125F",
             "version": "A125FXXS3CWE1",
@@ -35,21 +50,6 @@
             "model": "SM-T505",
             "version": "T505XXU4CWD2",
             "description": "SM-T505_CIS_12_Opensource.zip"
-        },
-        {
-            "model": "SM-J3119",
-            "version": "J3119KEU1APE6",
-            "description": "SM-J3119_CHN_LL_Opensource.zip"
-        },
-        {
-            "model": "SM-A127F",
-            "version": "A127FXXU9DWE4",
-            "description": "SM-A127F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G988N",
-            "version": "G988NKSU3IWE1",
-            "description": "SM-G988N_KOR_13_Opensource.zip"
         }
     ]
 }
