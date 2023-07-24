@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/07/24 14:37:16",
+    "fetch_date": "2023/07/24 15:21:18",
     "releases": [
+        {
+            "model": "SM-A146P",
+            "version": "A146PXXU3BWF1",
+            "description": "SM-A146P_13_Opensource.zip"
+        },
         {
             "model": "SM-A546S",
             "version": "A546SKSU1AWE2",
@@ -45,11 +50,6 @@
             "model": "SM-A145M",
             "version": "A145MUBU1AWB3",
             "description": "SM-A145M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A032M",
-            "version": "A032MUBU2BWC4",
-            "description": "SM-A032M_LATIN_12_Opensource.zip"
         }
     ]
 }
