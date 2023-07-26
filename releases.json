@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/07/26 14:37:22",
+    "fetch_date": "2023/07/26 15:20:06",
     "releases": [
         {
             "model": "SM-M325F",
@@ -14,7 +14,7 @@
         {
             "model": "SM-X205",
             "version": "X205XXS3CWE1",
-            "description": "SM-X205_SEA_13_Opensource.zip"
+            "description": "SM-X205_SEA_13_Opensource.zip, SM-X205_SEA_13_Opensource_X205XXS3CWF2.zip"
         },
         {
             "model": "SM-T733",
