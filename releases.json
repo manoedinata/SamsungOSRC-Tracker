@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2023/07/31 06:37:38",
+    "fetch_date": "2023/07/31 08:22:22",
     "releases": [
+        {
+            "model": "SM-S215DL",
+            "version": "S215DLUDSBCWF2",
+            "description": "SM-S215DL_NA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A336B",
+            "version": "A336BXXU6CWF2",
+            "description": "SM-A336B_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A037U",
+            "version": "A037USQU4DWG1",
+            "description": "SM-A037U_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G990B",
+            "version": "G990BXXS6EWF2",
+            "description": "SM-G990B_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-M325F",
             "version": "M325FXXU7DWE3",
@@ -30,26 +50,6 @@
             "model": "SM-M546B",
             "version": "M546BXXU2AWF1",
             "description": "SM-M546B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A032F",
-            "version": "A032FXXU2BWC3",
-            "description": "SM-A032F_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G996B",
-            "version": "G996BXXU7EWCH",
-            "description": "SM-G996B_13_Opensource.zip, SM-G996B_13_Opensource_G996BXXU7EWE6.zip, SM-G996B_13_Opensource_G996BXXU8EWF1.zip, SM-G996B_13_Opensource_G996BXXS9EWF3.zip"
-        },
-        {
-            "model": "SM-G991B",
-            "version": "G991BXXU7EWCH",
-            "description": "SM-G991B_13_Opensource.zip, SM-G991B_13_Opensource_G991BXXU7EWE6.zip, SM-G991B_13_Opensource_G991BXXU8EWF1.zip, SM-G991B_13_Opensource_G991BXXS9EWF3.zip"
-        },
-        {
-            "model": "SM-A146P",
-            "version": "A146PXXU3BWF1",
-            "description": "SM-A146P_13_Opensource.zip"
         }
     ]
 }
