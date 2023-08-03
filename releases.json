@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/03 10:15:56",
+    "fetch_date": "2023/08/03 10:37:30",
     "releases": [
+        {
+            "model": "SM-A546B",
+            "version": "A546BXXU3AWF4",
+            "description": "SM-A546B_13_Opensource.zip"
+        },
         {
             "model": "SM-X818U",
             "version": "X818USQU1AWG1",
@@ -45,11 +50,6 @@
             "model": "SM-A037U",
             "version": "A037USQU4DWG1",
             "description": "SM-A037U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G990B",
-            "version": "G990BXXS6EWF2",
-            "description": "SM-G990B_EUR_13_Opensource.zip"
         }
     ]
 }
