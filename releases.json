@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/08/08 13:37:27",
+    "fetch_date": "2023/08/08 14:14:20",
     "releases": [
         {
             "model": "SM-M515F",
@@ -27,6 +27,16 @@
             "description": "SM-M236B_EUR_13_Opensource.zip"
         },
         {
+            "model": "SM-F946U",
+            "version": "F946USQU1AWG4",
+            "description": "SM-F946U_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-F731U",
+            "version": "F731USQU1AWG3",
+            "description": "SM-F731U_NA_13_Opensource.zip"
+        },
+        {
             "model": "SM-M135M",
             "version": "M135MUBU3CWF1",
             "description": "SM-M135M_LATIN_13_Opensource.zip"
@@ -40,16 +50,6 @@
             "model": "SM-X818U",
             "version": "X818USQU1AWG1",
             "description": "SM-X818U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G988U1",
-            "version": "G988U1UES6HWF3",
-            "description": "SM-G988U1_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G988U1",
-            "version": "G988U1UES3FVK4",
-            "description": "SM-G988U1_NA_12_Opensource.zip"
         }
     ]
 }
