@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/08 12:37:25",
+    "fetch_date": "2023/08/08 13:20:22",
     "releases": [
+        {
+            "model": "SM-M515F",
+            "version": "M515FXXS5DWG1",
+            "description": "SM-M515F_CIS_12_Opensource.zip"
+        },
         {
             "model": "SM-X200",
             "version": "X200XXS3CWG2",
@@ -45,11 +50,6 @@
             "model": "SM-G988U1",
             "version": "G988U1UES3FVK4",
             "description": "SM-G988U1_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-T577U",
-            "version": "T577UUEU3DVJ1",
-            "description": "SM-T577U_NA_12_Opensource.zip"
         }
     ]
 }
