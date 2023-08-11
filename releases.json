@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/11 18:37:28",
+    "fetch_date": "2023/08/11 19:29:28",
     "releases": [
+        {
+            "model": "SM-G9860",
+            "version": "G9860ZHS3HWC1",
+            "description": "SM-G9860_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-X916B",
             "version": "X916BXXU1AWG1",
@@ -45,11 +50,6 @@
             "model": "SM-M236B",
             "version": "M236BXXS4CWG2",
             "description": "SM-M236B_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F946U",
-            "version": "F946USQU1AWG4",
-            "description": "SM-F946U_NA_13_Opensource.zip"
         }
     ]
 }
