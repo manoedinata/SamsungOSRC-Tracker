@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/11 14:37:31",
+    "fetch_date": "2023/08/11 15:18:50",
     "releases": [
+        {
+            "model": "SM-X916B",
+            "version": "X916BXXU1AWG1",
+            "description": "SM-X916B_13_Opensource.zip"
+        },
         {
             "model": "SM-F731B",
             "version": "F731BXXU1AWG3",
@@ -45,11 +50,6 @@
             "model": "SM-F946U",
             "version": "F946USQU1AWG4",
             "description": "SM-F946U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F731U",
-            "version": "F731USQU1AWG3",
-            "description": "SM-F731U_NA_13_Opensource.zip"
         }
     ]
 }
