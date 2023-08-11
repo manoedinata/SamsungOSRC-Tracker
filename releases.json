@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/11 13:37:42",
+    "fetch_date": "2023/08/11 14:14:02",
     "releases": [
+        {
+            "model": "SM-F946B",
+            "version": "F946BXXU1AWG4",
+            "description": "SM-F946B_13_Opensource.zip"
+        },
         {
             "model": "SM-S916N",
             "version": "S916NKSU2AWF5",
@@ -45,11 +50,6 @@
             "model": "SM-M135M",
             "version": "M135MUBU3CWF1",
             "description": "SM-M135M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A546B",
-            "version": "A546BXXU3AWF4",
-            "description": "SM-A546B_13_Opensource.zip"
         }
     ]
 }
