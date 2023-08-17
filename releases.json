@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/17 13:37:35",
+    "fetch_date": "2023/08/17 14:13:56",
     "releases": [
+        {
+            "model": "SM-A145P",
+            "version": "A145PXXU2AWG1",
+            "description": "SM-A145P_13_Opensource.zip"
+        },
         {
             "model": "SM-N975F",
             "version": "N975FXXS8HWF3",
@@ -45,11 +50,6 @@
             "model": "SM-X205",
             "version": "X205XXS2CWC3",
             "description": "SM-X205_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A515W",
-            "version": "A515WVLUAFWF1",
-            "description": "SM-A515W_NA_13_Opensource.zip"
         }
     ]
 }
