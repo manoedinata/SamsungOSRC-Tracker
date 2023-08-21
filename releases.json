@@ -1,6 +1,31 @@
 {
-    "fetch_date": "2023/08/21 14:14:45",
+    "fetch_date": "2023/08/21 14:37:36",
     "releases": [
+        {
+            "model": "SM-A750FN",
+            "version": "A750FNXXU5CVG2",
+            "description": "SM-A750FN_EUR_QQ_Opensource.zip"
+        },
+        {
+            "model": "SM-E426S",
+            "version": "E426SKSU3BVH1",
+            "description": "SM-E426S_KOR_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A125F",
+            "version": "A125FXXU2CWC3",
+            "description": "SM-A125F_EUR_12_Opensource.zip"
+        },
+        {
+            "model": "SM-S918B",
+            "version": "S918BXXU3AWGJ",
+            "description": "SM-S918B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-S911C",
+            "version": "S911CONU1AWG2,  SC51DOMU1AWG2",
+            "description": "SM-S911C_JPN_13_Opensource.zip"
+        },
         {
             "model": "SM-E426S",
             "version": "E426SKSU2AVA2",
@@ -25,31 +50,6 @@
             "model": "SM-G9860",
             "version": "G9860ZHS3HWC1",
             "description": "SM-G9860_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X916B",
-            "version": "X916BXXU1AWG1",
-            "description": "SM-X916B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F731B",
-            "version": "F731BXXU1AWG3",
-            "description": "SM-F731B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F946B",
-            "version": "F946BXXU1AWG4",
-            "description": "SM-F946B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S916N",
-            "version": "S916NKSU2AWF5",
-            "description": "SM-S916N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M515F",
-            "version": "M515FXXS5DWG1",
-            "description": "SM-M515F_CIS_12_Opensource.zip"
         }
     ]
 }
