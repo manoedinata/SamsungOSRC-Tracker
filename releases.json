@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/22 11:37:14",
+    "fetch_date": "2023/08/22 12:14:24",
     "releases": [
+        {
+            "model": "SM-A035F",
+            "version": "A035FXXU4CWF3",
+            "description": "SM-A035F_13_Opensource.zip"
+        },
         {
             "model": "SM-A750FN",
             "version": "A750FNXXU5CVG2",
@@ -45,11 +50,6 @@
             "model": "SM-N975F",
             "version": "N975FXXS8HWF3",
             "description": "SM-N975F_EUR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G9860",
-            "version": "G9860ZHS3HWC1",
-            "description": "SM-G9860_HK_13_Opensource.zip"
         }
     ]
 }
