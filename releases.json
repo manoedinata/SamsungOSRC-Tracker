@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/23 15:37:38",
+    "fetch_date": "2023/08/23 16:15:19",
     "releases": [
+        {
+            "model": "SM-A307G",
+            "version": "A307GUBU4CUF2",
+            "description": "SM-A307G_LATIN_RR_Opensource.zip"
+        },
         {
             "model": "SM-X910",
             "version": "X910XXU1AWG1",
@@ -45,11 +50,6 @@
             "model": "SM-E426S",
             "version": "E426SKSU4DWG1",
             "description": "SM-E426S_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A145P",
-            "version": "A145PXXU2AWG1",
-            "description": "SM-A145P_13_Opensource.zip"
         }
     ]
 }
