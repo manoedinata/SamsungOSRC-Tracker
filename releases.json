@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2023/08/28 16:37:19",
+    "fetch_date": "2023/08/28 17:17:49",
     "releases": [
+        {
+            "model": "SM-T875",
+            "version": "T875XXU3DWD3",
+            "description": "SM-T875_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G781B",
+            "version": "G781BXXS7HWF5",
+            "description": "SM-G781B_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G781B",
+            "version": "G781BXXS7HWF3",
+            "description": "SM-G781B_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-E236B",
+            "version": "E236BXXS4CWG2",
+            "description": "SM-E236B_SWA_13_Opensource.zip"
+        },
         {
             "model": "SM-X205",
             "version": "X205XXS3CWG1",
@@ -30,26 +50,6 @@
             "model": "SM-X910",
             "version": "X910XXU1AWG1",
             "description": "SM-X910_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A035F",
-            "version": "A035FXXU4CWF3",
-            "description": "SM-A035F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A750FN",
-            "version": "A750FNXXU5CVG2",
-            "description": "SM-A750FN_EUR_QQ_Opensource.zip"
-        },
-        {
-            "model": "SM-E426S",
-            "version": "E426SKSU3BVH1",
-            "description": "SM-E426S_KOR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A125F",
-            "version": "A125FXXU2CWC3",
-            "description": "SM-A125F_EUR_12_Opensource.zip"
         }
     ]
 }
