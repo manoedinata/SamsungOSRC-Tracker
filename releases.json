@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/08/30 09:03:11",
+    "fetch_date": "2023/08/30 09:37:37",
     "releases": [
+        {
+            "model": "SM-J730G",
+            "version": "J730GUBU6CSF1",
+            "description": "SM-J730G_LATIN_PP_Opensource.zip"
+        },
+        {
+            "model": "SM-A325M",
+            "version": "A325MUBU2CVK3",
+            "description": "SM-A325M_LATIN_13_Opensource.zip"
+        },
         {
             "model": "SM-T875",
             "version": "T875XXU3DWD3",
@@ -40,16 +50,6 @@
             "model": "SM-G780G",
             "version": "G780GXXS6EWF3",
             "description": "SM-G780G_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A307G",
-            "version": "A307GUBU4CUF2",
-            "description": "SM-A307G_LATIN_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-X910",
-            "version": "X910XXU1AWG1",
-            "description": "SM-X910_13_Opensource.zip"
         }
     ]
 }
