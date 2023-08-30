@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/08/30 10:16:08",
+    "fetch_date": "2023/08/30 10:37:25",
     "releases": [
+        {
+            "model": "SM-N950U",
+            "version": "N950USQU8DVB1",
+            "description": "SM-N950U_NA_PP_Opensource.zip"
+        },
         {
             "model": "SM-J730G",
             "version": "J730GUBU6CSF1",
@@ -45,11 +50,6 @@
             "model": "SM-G610F",
             "version": "G610FDDU1CTG2",
             "description": "SM-G610F_MEA_OO_Opensource.zip"
-        },
-        {
-            "model": "SM-G780G",
-            "version": "G780GXXS6EWF3",
-            "description": "SM-G780G_CIS_13_Opensource.zip"
         }
     ]
 }
