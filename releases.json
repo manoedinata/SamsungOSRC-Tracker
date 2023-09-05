@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/05 16:15:37",
+    "fetch_date": "2023/09/05 16:37:34",
     "releases": [
+        {
+            "model": "SM-A025M",
+            "version": "A025MUBU1ATK4",
+            "description": "SM-A025M_LATIN_QQ_Opensource.zip"
+        },
         {
             "model": "SM-A307FNSM-A307G",
             "version": "A307FNXXS3CWC2",
@@ -45,11 +50,6 @@
             "model": "SM-J730G",
             "version": "J730GUBU6CSF1",
             "description": "SM-J730G_LATIN_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-A325M",
-            "version": "A325MUBU2CVK3",
-            "description": "SM-A325M_LATIN_13_Opensource.zip"
         }
     ]
 }
