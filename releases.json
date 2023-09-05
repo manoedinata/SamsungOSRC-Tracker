@@ -1,10 +1,10 @@
 {
-    "fetch_date": "2023/09/05 09:01:57",
+    "fetch_date": "2023/09/05 09:37:31",
     "releases": [
         {
-            "model": "SM-A307FN",
+            "model": "SM-A307FNSM-A307G",
             "version": "A307FNXXS3CWC2",
-            "description": "SM-A307FN_CIS_RR_Opensource.zip"
+            "description": "SM-A307FN_CIS_RR_Opensource.zip, SM-A307G_LA_RR_Opensource_A307GUBS6CWG1.zip"
         },
         {
             "model": "SM-G950U1",
