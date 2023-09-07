@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/07 10:15:52",
+    "fetch_date": "2023/09/07 10:37:25",
     "releases": [
+        {
+            "model": "SM-F936U",
+            "version": "F936USQS3CWFB",
+            "description": "SM-F936U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-A025M",
             "version": "A025MUBU1ATK4",
@@ -45,11 +50,6 @@
             "model": "SM-N950U",
             "version": "N950USQU8DVB1",
             "description": "SM-N950U_NA_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-J730G",
-            "version": "J730GUBU6CSF1",
-            "description": "SM-J730G_LATIN_PP_Opensource.zip"
         }
     ]
 }
