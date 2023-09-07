@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/07 14:37:33",
+    "fetch_date": "2023/09/07 15:20:25",
     "releases": [
+        {
+            "model": "SM-G615F",
+            "version": "G615FXXS2BUD2",
+            "description": "SM-G615F_SWA_OO_Opensource.zip"
+        },
         {
             "model": "SM-F936U",
             "version": "F936USQS3CWFB",
@@ -45,11 +50,6 @@
             "model": "SM-A125F",
             "version": "A125FXXS3CWF3",
             "description": "SM-A125F_EUR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-N950U",
-            "version": "N950USQU8DVB1",
-            "description": "SM-N950U_NA_PP_Opensource.zip"
         }
     ]
 }
