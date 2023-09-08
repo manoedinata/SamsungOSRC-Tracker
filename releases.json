@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/08 18:13:07",
+    "fetch_date": "2023/09/08 18:37:29",
     "releases": [
+        {
+            "model": "SM-J610F",
+            "version": "J610FXXS8CVL1",
+            "description": "SM-J610F_SWA_QQ_Opensource.zip"
+        },
         {
             "model": "SM-A135N",
             "version": "A135NKSU5CWH3",
@@ -45,11 +50,6 @@
             "model": "SM-G950U1",
             "version": "G950U1UEU8DVD4",
             "description": "SM-G950U1_NA_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-G950U",
-            "version": "G950USQU8DUJ1",
-            "description": "SM-G950U_NA_PP_Opensource.zip"
         }
     ]
 }
