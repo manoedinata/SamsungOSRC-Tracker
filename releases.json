@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/13 15:37:42",
+    "fetch_date": "2023/09/13 16:16:07",
     "releases": [
+        {
+            "model": "SM-X900",
+            "version": "X900XXU5BWH6",
+            "description": "SM-X900_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-A217F",
             "version": "A217FXXS9DWF1",
@@ -45,11 +50,6 @@
             "model": "SM-A546E",
             "version": "A546EXXU5AWGJ",
             "description": "SM-A546E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T225N",
-            "version": "T225NKOS4CWF2",
-            "description": "SM-T225N_KOR_13_Opensource.zip"
         }
     ]
 }
