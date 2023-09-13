@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/13 10:16:16",
+    "fetch_date": "2023/09/13 10:37:37",
     "releases": [
+        {
+            "model": "SM-A217F",
+            "version": "A217FXXS9DWF1",
+            "description": "SM-A217F_CIS_12_Opensource.zip"
+        },
         {
             "model": "SM-M536B",
             "version": "M536BXXU1BVK4",
@@ -45,11 +50,6 @@
             "model": "SM-T225N",
             "version": "T225NKOS4CWF2",
             "description": "SM-T225N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G615F",
-            "version": "G615FXXS2BUD2",
-            "description": "SM-G615F_SWA_OO_Opensource.zip"
         }
     ]
 }
