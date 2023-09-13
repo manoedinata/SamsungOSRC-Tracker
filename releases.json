@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/13 09:04:07",
+    "fetch_date": "2023/09/13 09:37:41",
     "releases": [
+        {
+            "model": "SM-M536B",
+            "version": "M536BXXU1BVK4",
+            "description": "SM-M536B_LATIN_13_Opensource.zip"
+        },
         {
             "model": "SM-G988N",
             "version": "G988NKSU3IWH9",
@@ -45,11 +50,6 @@
             "model": "SM-G615F",
             "version": "G615FXXS2BUD2",
             "description": "SM-G615F_SWA_OO_Opensource.zip"
-        },
-        {
-            "model": "SM-F936U",
-            "version": "F936USQS3CWFB",
-            "description": "SM-F936U_NA_13_Opensource.zip"
         }
     ]
 }
