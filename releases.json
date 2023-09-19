@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/09/19 15:20:54",
+    "fetch_date": "2023/09/19 15:38:02",
     "releases": [
+        {
+            "model": "SM-X800",
+            "version": "X800XXU5BWH6",
+            "description": "SM-X800_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G991B",
+            "version": "G991BXXU9EWH5",
+            "description": "SM-G991B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G998B",
+            "version": "G998BXXU9EWH5",
+            "description": "SM-G998B_13_Opensource.zip"
+        },
         {
             "model": "SM-G985F",
             "version": "G985FXXUIHWH9",
@@ -35,21 +50,6 @@
             "model": "SM-G990E",
             "version": "G990EXXS7EWH5",
             "description": "SM-G990E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X700",
-            "version": "X700XXU5BWH6",
-            "description": "SM-X700_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T875N",
-            "version": "T875NKOU4HWH3",
-            "description": "SM-T875N_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G980F",
-            "version": "G980FXXUIHWH9",
-            "description": "SM-G980F_13_Opensource.zip"
         }
     ]
 }
