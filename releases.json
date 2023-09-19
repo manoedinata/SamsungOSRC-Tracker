@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/19 17:17:17",
+    "fetch_date": "2023/09/19 17:37:43",
     "releases": [
+        {
+            "model": "SM-M546B",
+            "version": "M546BXXU3AWH1",
+            "description": "SM-M546B_13_Opensource.zip"
+        },
         {
             "model": "SM-A736B",
             "version": "A736BXXU5CWH7",
@@ -45,11 +50,6 @@
             "model": "SM-S901B",
             "version": "S901BXXU6CWH5",
             "description": "SM-S901B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S908B",
-            "version": "S908BXXU6CWH5",
-            "description": "SM-S908B_13_Opensource.zip"
         }
     ]
 }
