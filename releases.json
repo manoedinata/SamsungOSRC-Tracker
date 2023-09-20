@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/09/20 13:21:39",
+    "fetch_date": "2023/09/20 13:38:22",
     "releases": [
         {
             "model": "SM-A146B",
@@ -43,7 +43,7 @@
         },
         {
             "model": "SM-S911B",
-            "version": "S911BXXU3AWGJ",
+            "version": "S911BXXU3AWGJ, S911BXXS3AWHR",
             "description": "SM-S911B_13_Opensource.zip"
         },
         {
