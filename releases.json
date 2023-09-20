@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/09/20 17:37:37",
+    "fetch_date": "2023/09/20 18:13:22",
     "releases": [
+        {
+            "model": "SM-S9180",
+            "version": "S9180ZCU1AWF1",
+            "description": "SM-S9180_CHN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-M536B",
+            "version": "M536BXXU4CWHA",
+            "description": "SM-M536B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A235F",
+            "version": "A235FXXU3CWE4",
+            "description": "SM-A235F_13_Opensource.zip"
+        },
         {
             "model": "SM-A146B",
             "version": "A146BXXU2BWH5",
@@ -35,21 +50,6 @@
             "model": "SM-G985F",
             "version": "G985FXXUIHWH9",
             "description": "SM-G985F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A236B",
-            "version": "A236BXXU4CWGJ",
-            "description": "SM-A236B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S911B",
-            "version": "S911BXXU3AWGJ, S911BXXS3AWHR",
-            "description": "SM-S911B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S9110",
-            "version": "S9110ZCU2AWH1",
-            "description": "SM-S9110_CHN_13_Opensource.zip"
         }
     ]
 }
