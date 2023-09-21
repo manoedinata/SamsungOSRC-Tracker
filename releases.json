@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/09/21 14:37:35",
+    "fetch_date": "2023/09/21 15:20:51",
     "releases": [
+        {
+            "model": "SM-G955U1",
+            "version": "G955U1UEU8DVD4",
+            "description": "SM-G955U1_NA_PP_Opensource.zip"
+        },
+        {
+            "model": "SM-A528N",
+            "version": "A528NKSU2EWH7",
+            "description": "SM-A528N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-S906B",
             "version": "S906BXXU6CWH5, S906BXXS6CWH6",
@@ -40,16 +50,6 @@
             "model": "SM-X800",
             "version": "X800XXU5BWH6",
             "description": "SM-X800_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G991B",
-            "version": "G991BXXU9EWH5",
-            "description": "SM-G991B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G998B",
-            "version": "G998BXXU9EWH5",
-            "description": "SM-G998B_13_Opensource.zip"
         }
     ]
 }
