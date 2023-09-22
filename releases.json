@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/09/22 15:37:35",
+    "fetch_date": "2023/09/22 16:15:49",
     "releases": [
+        {
+            "model": "SM-A525F",
+            "version": "A525FXXU6DWH2",
+            "description": "SM-A525F_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G955U",
+            "version": "G955USQU8DUJ1",
+            "description": "SM-G955U_NA_PP_Opensource.zip"
+        },
         {
             "model": "SM-M146B",
             "version": "M146BXXS2AWH1",
@@ -40,16 +50,6 @@
             "model": "SM-A146B",
             "version": "A146BXXU2BWH5",
             "description": "SM-A146B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M546B",
-            "version": "M546BXXU3AWH1",
-            "description": "SM-M546B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A736B",
-            "version": "A736BXXU5CWH7",
-            "description": "SM-A736B_13_Opensource.zip"
         }
     ]
 }
