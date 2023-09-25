@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/09/25 11:37:29",
+    "fetch_date": "2023/09/25 12:15:03",
     "releases": [
+        {
+            "model": "SM-G996B",
+            "version": "G996BXXU9EWH5",
+            "description": "SM-G996B_13_Opensource.zip"
+        },
         {
             "model": "SM-A525F",
             "version": "A525FXXU6DWH2",
@@ -45,11 +50,6 @@
             "model": "SM-A235F",
             "version": "A235FXXU3CWE4",
             "description": "SM-A235F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A146B",
-            "version": "A146BXXU2BWH5",
-            "description": "SM-A146B_13_Opensource.zip"
         }
     ]
 }
