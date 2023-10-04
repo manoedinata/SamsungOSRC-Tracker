@@ -1,6 +1,36 @@
 {
-    "fetch_date": "2023/10/04 15:20:57",
+    "fetch_date": "2023/10/04 15:38:32",
     "releases": [
+        {
+            "model": "SM-G781U",
+            "version": "G781USQUCHWH4",
+            "description": "SM-G781U_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A125W",
+            "version": "A125WVLS6BWE2",
+            "description": "SM-A125W_NA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A042F",
+            "version": "A042FXXS3CWG6",
+            "description": "SM-A042F_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T515",
+            "version": "T515XXU8CVL1",
+            "description": "SM-T515_EUR_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-G780G",
+            "version": "G780GXXS7EWH8",
+            "description": "SM-G780G_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T835",
+            "version": "T835JXS5CWA1",
+            "description": "SM-T835_MEA_QQ_Opensource.zip"
+        },
         {
             "model": "SM-A325F",
             "version": "A325FXXU5DWE3",
@@ -20,36 +50,6 @@
             "model": "SM-A525F",
             "version": "A525FXXU6DWH2",
             "description": "SM-A525F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G955U",
-            "version": "G955USQU8DUJ1",
-            "description": "SM-G955U_NA_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-M146B",
-            "version": "M146BXXS2AWH1",
-            "description": "SM-M146B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G955U1",
-            "version": "G955U1UEU8DVD4",
-            "description": "SM-G955U1_NA_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-A528N",
-            "version": "A528NKSU2EWH7",
-            "description": "SM-A528N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S906B",
-            "version": "S906BXXU6CWH5, S906BXXS6CWH6",
-            "description": "SM-S906B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S9180",
-            "version": "S9180ZCU1AWF1",
-            "description": "SM-S9180_CHN_13_Opensource.zip"
         }
     ]
 }
