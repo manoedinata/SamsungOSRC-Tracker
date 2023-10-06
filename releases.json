@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/06 16:37:19",
+    "fetch_date": "2023/10/06 17:17:34",
     "releases": [
+        {
+            "model": "SM-T220",
+            "version": "T220XXS3CWD1",
+            "description": "SM-T220_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-X200",
             "version": "X200XXU3CWI3",
@@ -45,11 +50,6 @@
             "model": "SM-A146M",
             "version": "A146MUBS2AWG6",
             "description": "SM-A146M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G781U",
-            "version": "G781USQUCHWH4",
-            "description": "SM-G781U_NA_13_Opensource.zip"
         }
     ]
 }
