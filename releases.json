@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/06 13:38:34",
+    "fetch_date": "2023/10/06 14:14:33",
     "releases": [
+        {
+            "model": "SM-E225F",
+            "version": "E225FXXU7DWF2",
+            "description": "SM-E225F_SWA_13_Opensource.zip"
+        },
         {
             "model": "SM-T865",
             "version": "T865XXS6DWH1",
@@ -45,11 +50,6 @@
             "model": "SM-T515",
             "version": "T515XXU8CVL1",
             "description": "SM-T515_EUR_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G780G",
-            "version": "G780GXXS7EWH8",
-            "description": "SM-G780G_CIS_13_Opensource.zip"
         }
     ]
 }
