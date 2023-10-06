@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/10/06 14:37:31",
+    "fetch_date": "2023/10/06 15:20:31",
     "releases": [
+        {
+            "model": "SM-X200",
+            "version": "X200XXU3CWI3",
+            "description": "SM-X200_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G770F",
+            "version": "G770FXXU8HWF5",
+            "description": "SM-G770F_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-X205",
+            "version": "X205XXU3CWI3",
+            "description": "SM-X205_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-E225F",
             "version": "E225FXXU7DWF2",
@@ -35,21 +50,6 @@
             "model": "SM-G781U",
             "version": "G781USQUCHWH4",
             "description": "SM-G781U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A125W",
-            "version": "A125WVLS6BWE2",
-            "description": "SM-A125W_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A042F",
-            "version": "A042FXXS3CWG6",
-            "description": "SM-A042F_SWA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T515",
-            "version": "T515XXU8CVL1",
-            "description": "SM-T515_EUR_RR_Opensource.zip"
         }
     ]
 }
