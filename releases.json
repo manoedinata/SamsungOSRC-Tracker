@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/11 14:15:04",
+    "fetch_date": "2023/10/11 14:37:24",
     "releases": [
+        {
+            "model": "SM-S901E",
+            "version": "S901EXXU6CWH3",
+            "description": "SM-S901E_13_Opensource.zip"
+        },
         {
             "model": "SM-G981N",
             "version": "G981NKSU3IWH9",
@@ -45,11 +50,6 @@
             "model": "SM-G990E",
             "version": "G990EXXS7EWI3",
             "description": "SM-G990E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-P615",
-            "version": "P615XXU7FWH7",
-            "description": "SM-P615_EUR_13_Opensource.zip"
         }
     ]
 }
