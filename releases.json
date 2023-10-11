@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/11 09:37:42",
+    "fetch_date": "2023/10/11 10:16:37",
     "releases": [
+        {
+            "model": "SM-G981N",
+            "version": "G981NKSU3IWH9",
+            "description": "SM-G981N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-A336B",
             "version": "A336BXXU7CWH2",
@@ -45,11 +50,6 @@
             "model": "SM-P615",
             "version": "P615XXU7FWH7",
             "description": "SM-P615_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G780F",
-            "version": "G780FXXUDFWH5",
-            "description": "SM-G780F_CIS_13_Opensource.zip"
         }
     ]
 }
