@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/17 18:13:37",
+    "fetch_date": "2023/10/17 18:37:32",
     "releases": [
+        {
+            "model": "SM-G9810",
+            "version": "G9810ZHU6HWH9",
+            "description": "SM-G9810_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-P610",
             "version": "P610XXU4FWH7",
@@ -45,11 +50,6 @@
             "model": "SM-M336K",
             "version": "M336KKSU1AVC4",
             "description": "SM-M336K_KOR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-M336K",
-            "version": "M336KKSU3BVK2",
-            "description": "SM-M336K_KOR_13_Opensource.zip"
         }
     ]
 }
