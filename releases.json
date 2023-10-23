@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/23 12:37:28",
+    "fetch_date": "2023/10/23 13:22:10",
     "releases": [
+        {
+            "model": "SM-T500",
+            "version": "T500XXS6CWI2",
+            "description": "SM-T500_EUR_12_Opensource.zip"
+        },
         {
             "model": "SM-T225N",
             "version": "T225NDXU1CVL5",
@@ -45,11 +50,6 @@
             "model": "SM-A325F",
             "version": "A325FXXU6DWH3",
             "description": "SM-A325F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-J600G",
-            "version": "J600GUBUACWF2",
-            "description": "SM-J600G_LATIN_QQ_Opensource.zip"
         }
     ]
 }
