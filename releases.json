@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/10/25 11:19:11",
+    "fetch_date": "2023/10/25 11:37:30",
     "releases": [
+        {
+            "model": "SM-A225F",
+            "version": "A225FXXU7DWH3",
+            "description": "SM-A225F_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-A047F",
             "version": "A047FXXU4CWI2",
@@ -45,11 +50,6 @@
             "model": "SM-N770F",
             "version": "N770FXXU9HWI2",
             "description": "SM-N770F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G780F",
-            "version": "G780FXXSDFWH8",
-            "description": "SM-G780F_CIS_13_Opensource.zip"
         }
     ]
 }
