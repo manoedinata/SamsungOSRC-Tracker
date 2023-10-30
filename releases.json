@@ -1,10 +1,15 @@
 {
-    "fetch_date": "2023/10/30 13:38:22",
+    "fetch_date": "2023/10/30 14:14:53",
     "releases": [
         {
             "model": "SM-T976B",
             "version": "T976BXXU4DWH3",
             "description": "SM-T976B_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-J730F",
+            "version": "J730FXWU8CUG1",
+            "description": "SM-J730F_MEA_PP_Opensource.zip"
         },
         {
             "model": "SM-A215U1",
@@ -45,11 +50,6 @@
             "model": "SM-P610",
             "version": "P610XXU4FWH7",
             "description": "SM-P610_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A225F",
-            "version": "A225FXXU6DWE3",
-            "description": "SM-A225F_EUR_13_Opensource.zip"
         }
     ]
 }
