@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/01 14:37:26",
+    "fetch_date": "2023/11/01 15:20:13",
     "releases": [
+        {
+            "model": "SM-A217M",
+            "version": "A217MUBSBDWI1",
+            "description": "SM-A217M_LATIN_12_Opensource.zip"
+        },
         {
             "model": "SM-T976B",
             "version": "T976BXXU4DWH3",
@@ -45,11 +50,6 @@
             "model": "SM-G9810",
             "version": "G9810ZHU6HWH9",
             "description": "SM-G9810_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-P610",
-            "version": "P610XXU4FWH7",
-            "description": "SM-P610_EUR_13_Opensource.zip"
         }
     ]
 }
