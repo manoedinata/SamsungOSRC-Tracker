@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/03 09:38:00",
+    "fetch_date": "2023/11/03 10:16:41",
     "releases": [
+        {
+            "model": "SM-S711B",
+            "version": "S711BXXU1AWJ2",
+            "description": "SM-S711B_13_Opensource.zip"
+        },
         {
             "model": "SM-M346B",
             "version": "M346BXXU1AWF3",
@@ -45,11 +50,6 @@
             "model": "SM-T500",
             "version": "T500XXS6CWI2",
             "description": "SM-T500_EUR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-T225N",
-            "version": "T225NDXU1CVL5",
-            "description": "SM-T225N_MEA_13_Opensource.zip"
         }
     ]
 }
