@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/08 15:20:13",
+    "fetch_date": "2023/11/08 15:37:47",
     "releases": [
+        {
+            "model": "SM-A5260",
+            "version": "A5260ZHU4EWH2",
+            "description": "SM-A5260_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-A530F",
             "version": "A530FXXUCCTE6",
@@ -45,11 +50,6 @@
             "model": "SM-A215U1",
             "version": "A215U1UEUBCWG5",
             "description": "SM-A215U1_NA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-F907N",
-            "version": "F907NKOU3IWH1",
-            "description": "SM-F907N_KOR_12_Opensource.zip"
         }
     ]
 }
