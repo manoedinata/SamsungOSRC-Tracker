@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/11/08 17:37:45",
+    "fetch_date": "2023/11/08 18:13:26",
     "releases": [
+        {
+            "model": "SM-S911B",
+            "version": "S911BXXU3BWJM",
+            "description": "SM-S911B_14_Opensource.zip"
+        },
+        {
+            "model": "SM-S916B",
+            "version": "S916BXXU3BWJM",
+            "description": "SM-S916B_14_Opensource.zip"
+        },
+        {
+            "model": "SM-S918B",
+            "version": "S918BXXU3BWJM",
+            "description": "SM-S918B_14_Opensource.zip"
+        },
         {
             "model": "SM-T636B",
             "version": "T636BXXS3BWG2",
@@ -35,21 +50,6 @@
             "model": "SM-S711B",
             "version": "S711BXXU1AWJ2",
             "description": "SM-S711B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M346B",
-            "version": "M346BXXU1AWF3",
-            "description": "SM-M346B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A217M",
-            "version": "A217MUBSBDWI1",
-            "description": "SM-A217M_LATIN_12_Opensource.zip"
-        },
-        {
-            "model": "SM-T976B",
-            "version": "T976BXXU4DWH3",
-            "description": "SM-T976B_EUR_13_Opensource.zip"
         }
     ]
 }
