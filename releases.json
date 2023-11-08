@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/08 15:37:47",
+    "fetch_date": "2023/11/08 16:15:58",
     "releases": [
+        {
+            "model": "SM-M045F",
+            "version": "M045FXXS5CWJ2",
+            "description": "SM-M045F_SWA_13_Opensource.zip"
+        },
         {
             "model": "SM-A5260",
             "version": "A5260ZHU4EWH2",
@@ -45,11 +50,6 @@
             "model": "SM-J730F",
             "version": "J730FXWU8CUG1",
             "description": "SM-J730F_MEA_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-A215U1",
-            "version": "A215U1UEUBCWG5",
-            "description": "SM-A215U1_NA_12_Opensource.zip"
         }
     ]
 }
