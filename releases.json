@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/11/14 16:37:32",
+    "fetch_date": "2023/11/14 17:18:15",
     "releases": [
         {
             "model": "SM-T505C",
@@ -14,7 +14,7 @@
         {
             "model": "SM-G988B",
             "version": "G988BXXUIHWH9",
-            "description": "SM-G988B_13_Opensource.zip"
+            "description": "SM-G988B_13_Opensource.zip, SM-G988B_13_Opensource_G988BXXSIHWI7.zip"
         },
         {
             "model": "SM-S918U",
@@ -43,12 +43,12 @@
         },
         {
             "model": "SM-S911B",
-            "version": "S911BXXU3BWJM",
+            "version": "S911BXXU3BWJM, S911BXXS3BWK5",
             "description": "SM-S911B_14_Opensource.zip"
         },
         {
             "model": "SM-S916B",
-            "version": "S916BXXU3BWJM",
+            "version": "S916BXXU3BWJM, S916BXXS3BWK5",
             "description": "SM-S916B_14_Opensource.zip"
         }
     ]
