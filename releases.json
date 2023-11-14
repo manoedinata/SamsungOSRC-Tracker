@@ -1,15 +1,15 @@
 {
-    "fetch_date": "2023/11/14 17:38:33",
+    "fetch_date": "2023/11/14 18:13:45",
     "releases": [
         {
             "model": "SM-G981B",
             "version": "G981BXXUIHWH9",
-            "description": "SM-G981B_13_Opensource.zip"
+            "description": "SM-G981B_13_Opensource.zip, SM-G981B_13_Opensource_G981BXXSIHWI7.zip"
         },
         {
             "model": "SM-G986B",
             "version": "G986BXXUIHWH9",
-            "description": "SM-G986B_13_Opensource.zip"
+            "description": "SM-G986B_13_Opensource.zip, SM-G986B_13_Opensource_G986BXXSIHWI7.zip"
         },
         {
             "model": "SM-T505C",
