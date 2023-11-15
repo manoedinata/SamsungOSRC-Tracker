@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/15 18:14:08",
+    "fetch_date": "2023/11/15 18:37:22",
     "releases": [
+        {
+            "model": "SM-S9160",
+            "version": "S9160ZHS2AWI2",
+            "description": "SM-S9160_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-G781B",
             "version": "G781BXXS8HWI3",
@@ -45,11 +50,6 @@
             "model": "SM-S918U",
             "version": "S918USQU1BWJM",
             "description": "SM-S918U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S916U",
-            "version": "S916USQU1BWJM",
-            "description": "SM-S916U_NA_14_Opensource.zip"
         }
     ]
 }
