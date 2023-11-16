@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/11/16 09:10:42",
+    "fetch_date": "2023/11/16 09:42:03",
     "releases": [
+        {
+            "model": "SM-J810M",
+            "version": "J810MUBU2BSD3",
+            "description": "SM-J810M_LATIN_PP_Opensource.zip"
+        },
+        {
+            "model": "SM-J810M",
+            "version": "J810MUBU2CTG2",
+            "description": "SM-J810M_LATIN_QQ_Opensource.zip"
+        },
         {
             "model": "SM-S9160",
             "version": "S9160ZHS2AWI2",
@@ -40,16 +50,6 @@
             "model": "SM-A528B",
             "version": "A528BZTS5EWJ1",
             "description": "SM-A528B_TW_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G988B",
-            "version": "G988BXXUIHWH9",
-            "description": "SM-G988B_13_Opensource.zip, SM-G988B_13_Opensource_G988BXXSIHWI7.zip"
-        },
-        {
-            "model": "SM-S918U",
-            "version": "S918USQU1BWJM",
-            "description": "SM-S918U_NA_14_Opensource.zip"
         }
     ]
 }
