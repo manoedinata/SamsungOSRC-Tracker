@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/16 14:37:24",
+    "fetch_date": "2023/11/16 15:21:16",
     "releases": [
+        {
+            "model": "SM-F7310",
+            "version": "F7310ZCU1AWG6",
+            "description": "SM-F7310_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-F9460",
             "version": "F9460ZCU1AWG6",
@@ -45,11 +50,6 @@
             "model": "SM-G986B",
             "version": "G986BXXUIHWH9",
             "description": "SM-G986B_13_Opensource.zip, SM-G986B_13_Opensource_G986BXXSIHWI7.zip"
-        },
-        {
-            "model": "SM-T505C",
-            "version": "T505CZCU3CVF1",
-            "description": "SM-T505C_CHN_12_Opensource.zip"
         }
     ]
 }
