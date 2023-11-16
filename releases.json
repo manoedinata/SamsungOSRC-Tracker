@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/16 12:37:29",
+    "fetch_date": "2023/11/16 13:22:20",
     "releases": [
+        {
+            "model": "SM-F9460",
+            "version": "F9460ZCU1AWG6",
+            "description": "SM-F9460_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-J810M",
             "version": "J810MUBU2BSD3",
@@ -45,11 +50,6 @@
             "model": "SM-T505C",
             "version": "T505CZCU3CVF1",
             "description": "SM-T505C_CHN_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A528B",
-            "version": "A528BZTS5EWJ1",
-            "description": "SM-A528B_TW_13_Opensource.zip"
         }
     ]
 }
