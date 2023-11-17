@@ -1,10 +1,30 @@
 {
-    "fetch_date": "2023/11/17 14:15:24",
+    "fetch_date": "2023/11/17 14:37:21",
     "releases": [
+        {
+            "model": "SM-T505N",
+            "version": "T505NDXS5CWI2",
+            "description": "SM-T505N_MEA_12_Opensource.zip"
+        },
+        {
+            "model": "SM-A032F",
+            "version": "A032FXXU4CWI8",
+            "description": "SM-A032F_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T975N",
+            "version": "T975NKOU2EVI2",
+            "description": "SM-T975N_KOR_12_Opensource.zip"
+        },
         {
             "model": "SM-G9910",
             "version": "G9910ZHS5EWG1",
             "description": "SM-G9910_HK_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G780F",
+            "version": "G780FXXSDFWI3",
+            "description": "SM-G780F_CIS_13_Opensource.zip"
         },
         {
             "model": "SM-F7310",
@@ -30,26 +50,6 @@
             "model": "SM-S9160",
             "version": "S9160ZHS2AWI2",
             "description": "SM-S9160_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G781B",
-            "version": "G781BXXS8HWI3",
-            "description": "SM-G781B_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G780G",
-            "version": "G780GXXS7EWI3",
-            "description": "SM-G780G_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T505",
-            "version": "T505XXS6CWI3",
-            "description": "SM-T505_SEA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G981B",
-            "version": "G981BXXUIHWH9",
-            "description": "SM-G981B_13_Opensource.zip, SM-G981B_13_Opensource_G981BXXSIHWI7.zip"
         }
     ]
 }
