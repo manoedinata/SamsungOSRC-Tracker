@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/17 15:38:29",
+    "fetch_date": "2023/11/17 16:16:30",
     "releases": [
+        {
+            "model": "SM-G9980",
+            "version": "G9980ZHS6EWJ1",
+            "description": "SM-G9980_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-T505N",
             "version": "T505NDXS5CWI2",
@@ -45,11 +50,6 @@
             "model": "SM-J810M",
             "version": "J810MUBU2CTG2",
             "description": "SM-J810M_LATIN_QQ_Opensource.zip"
-        },
-        {
-            "model": "SM-S9160",
-            "version": "S9160ZHS2AWI2",
-            "description": "SM-S9160_HK_13_Opensource.zip"
         }
     ]
 }
