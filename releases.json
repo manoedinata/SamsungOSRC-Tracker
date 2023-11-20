@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/20 18:14:24",
+    "fetch_date": "2023/11/20 18:37:24",
     "releases": [
+        {
+            "model": "SM-N9860",
+            "version": "N9860ZSS6HWG8",
+            "description": "SM-N9860_HK_13_Opensource.zip"
+        },
         {
             "model": "SM-G9980",
             "version": "G9980ZHS6EWJ1",
@@ -45,11 +50,6 @@
             "model": "SM-J810M",
             "version": "J810MUBU2BSD3",
             "description": "SM-J810M_LATIN_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-J810M",
-            "version": "J810MUBU2CTG2",
-            "description": "SM-J810M_LATIN_QQ_Opensource.zip"
         }
     ]
 }
