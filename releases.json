@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/21 16:17:06",
+    "fetch_date": "2023/11/21 16:37:38",
     "releases": [
+        {
+            "model": "SM-A107F",
+            "version": "A107FXXS8CWD3",
+            "description": "SM-A107F_SEA_RR_Opensource.zip"
+        },
         {
             "model": "SM-N9860",
             "version": "N9860ZSS6HWG8",
@@ -45,11 +50,6 @@
             "model": "SM-F9460",
             "version": "F9460ZCU1AWG6",
             "description": "SM-F9460_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-J810M",
-            "version": "J810MUBU2BSD3",
-            "description": "SM-J810M_LATIN_PP_Opensource.zip"
         }
     ]
 }
