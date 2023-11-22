@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/22 16:17:06",
+    "fetch_date": "2023/11/22 16:37:45",
     "releases": [
+        {
+            "model": "SM-W7024",
+            "version": "W7024ZCU1AWH4",
+            "description": "SM-W7024_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-A107F",
             "version": "A107FXXS8CWD3",
@@ -45,11 +50,6 @@
             "model": "SM-F7310",
             "version": "F7310ZCU1AWG6",
             "description": "SM-F7310_CHN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F9460",
-            "version": "F9460ZCU1AWG6",
-            "description": "SM-F9460_CHN_13_Opensource.zip"
         }
     ]
 }
