@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/23 14:15:06",
+    "fetch_date": "2023/11/23 14:37:13",
     "releases": [
+        {
+            "model": "SM-S7110",
+            "version": "S7110ZCU1AWI9",
+            "description": "SM-S7110_CHN_13_Opensource.zip"
+        },
         {
             "model": "SM-A035F",
             "version": "A035FXXU4CWI1",
@@ -45,11 +50,6 @@
             "model": "SM-T975N",
             "version": "T975NKOU2EVI2",
             "description": "SM-T975N_KOR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-G9910",
-            "version": "G9910ZHS5EWG1",
-            "description": "SM-G9910_HK_13_Opensource.zip"
         }
     ]
 }
