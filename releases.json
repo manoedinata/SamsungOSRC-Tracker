@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/11/23 15:38:11",
+    "fetch_date": "2023/11/23 16:16:30",
     "releases": [
+        {
+            "model": "SM-G9900",
+            "version": "G9900ZCU3DVK9",
+            "description": "SM-G9900_CHN_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A127F",
+            "version": "A127FXXUADWJ3",
+            "description": "SM-A127F_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A137F",
+            "version": "A137FXXS3CWI1",
+            "description": "SM-A137F_EUR_13_Opensource.zip"
+        },
         {
             "model": "SM-S7110",
             "version": "S7110ZCU1AWI9",
@@ -35,21 +50,6 @@
             "model": "SM-G9980",
             "version": "G9980ZHS6EWJ1",
             "description": "SM-G9980_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T505N",
-            "version": "T505NDXS5CWI2",
-            "description": "SM-T505N_MEA_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A032F",
-            "version": "A032FXXU4CWI8",
-            "description": "SM-A032F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T975N",
-            "version": "T975NKOU2EVI2",
-            "description": "SM-T975N_KOR_12_Opensource.zip"
         }
     ]
 }
