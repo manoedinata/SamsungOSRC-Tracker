@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/27 11:38:10",
+    "fetch_date": "2023/11/27 12:16:02",
     "releases": [
+        {
+            "model": "SM-G781U",
+            "version": "G781USQSDHWI4",
+            "description": "SM-G781U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-G9900",
             "version": "G9900ZCU3DVK9",
@@ -45,11 +50,6 @@
             "model": "SM-N9860",
             "version": "N9860ZSS6HWG8",
             "description": "SM-N9860_HK_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G9980",
-            "version": "G9980ZHS6EWJ1",
-            "description": "SM-G9980_HK_13_Opensource.zip"
         }
     ]
 }
