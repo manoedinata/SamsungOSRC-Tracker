@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/11/29 15:39:00",
+    "fetch_date": "2023/11/29 16:16:44",
     "releases": [
+        {
+            "model": "SM-P615",
+            "version": "P615XXS7FWK1",
+            "description": "SM-P615_EUR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T735",
+            "version": "T735XXU4CWI3",
+            "description": "SM-T735_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T505",
+            "version": "T505XXS6CWI2",
+            "description": "SM-T505_EUR_12_Opensource.zip"
+        },
         {
             "model": "SM-A536B",
             "version": "A536BXXU7DWK6",
@@ -35,21 +50,6 @@
             "model": "SM-G998B",
             "version": "G998BXXU9FWK2",
             "description": "SM-G998B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S9110",
-            "version": "S9110ZCU2BWK7",
-            "description": "SM-S9110_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F7110",
-            "version": "F7110ZCU1AUGC",
-            "description": "SM-F7110_CHN_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G781U",
-            "version": "G781USQSDHWI4",
-            "description": "SM-G781U_NA_13_Opensource.zip"
         }
     ]
 }
