@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/29 11:20:11",
+    "fetch_date": "2023/11/29 11:38:00",
     "releases": [
+        {
+            "model": "SM-S906B",
+            "version": "S906BXXU6DWK4",
+            "description": "SM-S906B_14_Opensource.zip"
+        },
         {
             "model": "SM-S908B",
             "version": "S908BXXU6DWK4",
@@ -45,11 +50,6 @@
             "model": "SM-A137F",
             "version": "A137FXXS3CWI1",
             "description": "SM-A137F_EUR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S7110",
-            "version": "S7110ZCU1AWI9",
-            "description": "SM-S7110_CHN_13_Opensource.zip"
         }
     ]
 }
