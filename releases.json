@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/11/29 06:37:32",
+    "fetch_date": "2023/11/29 08:15:38",
     "releases": [
+        {
+            "model": "SM-A736B",
+            "version": "A736BXXU5DWK2",
+            "description": "SM-A736B_14_Opensource.zip"
+        },
         {
             "model": "SM-G998B",
             "version": "G998BXXU9FWK2",
@@ -45,11 +50,6 @@
             "model": "SM-A035F",
             "version": "A035FXXU4CWI1",
             "description": "SM-A035F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S908E",
-            "version": "S908EXXU6CWH3, S908EXXS7CWI1",
-            "description": "SM-S908E_13_Opensource.zip"
         }
     ]
 }
