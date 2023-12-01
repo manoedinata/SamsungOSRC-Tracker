@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/01 16:16:51",
+    "fetch_date": "2023/12/01 16:37:27",
     "releases": [
+        {
+            "model": "SM-X616B",
+            "version": "X616BXXU1AWHD",
+            "description": "SM-X616B_13_Opensource.zip"
+        },
         {
             "model": "SM-X610",
             "version": "X610XXU1AWHD",
@@ -45,11 +50,6 @@
             "model": "SM-A536B",
             "version": "A536BXXU7DWK6",
             "description": "SM-A536B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S9110",
-            "version": "S9110ZHU2BWK7",
-            "description": "SM-S9110_HK_14_Opensource.zip"
         }
     ]
 }
