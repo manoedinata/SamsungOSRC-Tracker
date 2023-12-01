@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/01 17:38:51",
+    "fetch_date": "2023/12/01 18:14:32",
     "releases": [
+        {
+            "model": "SM-T505C",
+            "version": "T505CZCS5CWI2",
+            "description": "SM-T505C_CHN_12_Opensource.zip"
+        },
         {
             "model": "SM-X616B",
             "version": "X616BXXU1AWHD",
@@ -45,11 +50,6 @@
             "model": "SM-T505",
             "version": "T505XXS6CWI2",
             "description": "SM-T505_EUR_12_Opensource.zip"
-        },
-        {
-            "model": "SM-A536B",
-            "version": "A536BXXU7DWK6",
-            "description": "SM-A536B_14_Opensource.zip"
         }
     ]
 }
