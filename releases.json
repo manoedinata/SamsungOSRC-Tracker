@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2023/12/01 15:38:44",
+    "fetch_date": "2023/12/01 16:16:51",
     "releases": [
+        {
+            "model": "SM-X610",
+            "version": "X610XXU1AWHD",
+            "description": "SM-X610_13_Opensource.zip"
+        },
+        {
+            "model": "SM-X516B",
+            "version": "X516BXXU1AWHD",
+            "description": "SM-X516B_13_Opensource.zip"
+        },
+        {
+            "model": "SM-X510",
+            "version": "X510XXU1AWHD",
+            "description": "SM-X510_13_Opensource.zip"
+        },
         {
             "model": "SM-A705FN",
             "version": "A705FNXXU5DWB4",
@@ -35,21 +50,6 @@
             "model": "SM-S9110",
             "version": "S9110ZHU2BWK7",
             "description": "SM-S9110_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S901B",
-            "version": "S901BXXU6DWK4",
-            "description": "SM-S906B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S906B",
-            "version": "S906BXXU6DWK4",
-            "description": "SM-S906B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S908B",
-            "version": "S908BXXU6DWK4",
-            "description": "SM-S908B_14_Opensource.zip"
         }
     ]
 }
