@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/04 15:39:04",
+    "fetch_date": "2023/12/04 16:17:49",
     "releases": [
+        {
+            "model": "SM-G991B",
+            "version": "G991BXXU9FWK2",
+            "description": "SM-G991B_14_Opensource.zip"
+        },
         {
             "model": "SM-S9160",
             "version": "S9160ZHU2BWK7",
@@ -45,11 +50,6 @@
             "model": "SM-S9160",
             "version": "S9160ZCU2BWK7",
             "description": "SM-S9160_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-P615",
-            "version": "P615XXS7FWK1",
-            "description": "SM-P615_EUR_13_Opensource.zip"
         }
     ]
 }
