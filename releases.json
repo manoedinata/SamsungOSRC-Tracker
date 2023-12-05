@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/05 09:11:24",
+    "fetch_date": "2023/12/05 09:43:04",
     "releases": [
+        {
+            "model": "SM-G988U1",
+            "version": "G988U1UES7HWJ1",
+            "description": "SM-G988U1_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-S9180",
             "version": "S9180ZHU2BWK7",
@@ -45,11 +50,6 @@
             "model": "SM-X516B",
             "version": "X516BXXU1AWHD",
             "description": "SM-X516B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X510",
-            "version": "X510XXU1AWHD",
-            "description": "SM-X510_13_Opensource.zip"
         }
     ]
 }
