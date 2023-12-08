@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2023/12/08 15:21:30",
+    "fetch_date": "2023/12/08 15:38:27",
     "releases": [
         {
             "model": "SM-S711U",
@@ -9,7 +9,7 @@
         {
             "model": "SM-G985F",
             "version": "G985FXXUGHWCG",
-            "description": "SM-G985F_13_Opensource.zip"
+            "description": "SM-G985F_13_Opensource.zip, SM-G985F_13_Opensource_G985FXXSGHWD4.zip"
         },
         {
             "model": "SM-F946U",
