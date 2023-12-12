@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/12 08:15:52",
+    "fetch_date": "2023/12/12 09:11:41",
     "releases": [
+        {
+            "model": "SM-X518U",
+            "version": "X518USQS1AWK2",
+            "description": "SM-X518U_NA_13_Opensource.zip"
+        },
         {
             "model": "SM-A057F",
             "version": "A057FXXU1AWI7",
@@ -45,11 +50,6 @@
             "model": "SM-A546B",
             "version": "A546BXXU5BWK4",
             "description": "SM-A546B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-E045F",
-            "version": "E045FXXS5CWJ2",
-            "description": "SM-E045F_SWA_13_Opensource.zip"
         }
     ]
 }
