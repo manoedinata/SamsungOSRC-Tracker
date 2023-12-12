@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/12 17:18:21",
+    "fetch_date": "2023/12/12 17:39:22",
     "releases": [
+        {
+            "model": "SM-X115",
+            "version": "X115XXU1AWHH",
+            "description": "SM-X115_13_Opensource.zip"
+        },
         {
             "model": "SM-X110",
             "version": "X110XXU1AWHH",
@@ -45,11 +50,6 @@
             "model": "SM-F731U",
             "version": "F731USQU1BWK9",
             "description": "SM-F731U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A225M",
-            "version": "A225MUBU6CWG2",
-            "description": "SM-A225M_LATIN_13_Opensource.zip"
         }
     ]
 }
