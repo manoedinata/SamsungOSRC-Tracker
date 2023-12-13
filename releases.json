@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/13 13:39:08",
+    "fetch_date": "2023/12/13 14:15:32",
     "releases": [
+        {
+            "model": "SM-F9460",
+            "version": "F9460ZSU1BWKE",
+            "description": "SM-F9460_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-X115",
             "version": "X115XXU1AWHH",
@@ -45,11 +50,6 @@
             "model": "SM-F946U",
             "version": "F946USQU1BWK9",
             "description": "SM-F946U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F731U",
-            "version": "F731USQU1BWK9",
-            "description": "SM-F731U_NA_14_Opensource.zip"
         }
     ]
 }
