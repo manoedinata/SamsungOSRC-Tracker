@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/14 16:16:34",
+    "fetch_date": "2023/12/14 16:37:27",
     "releases": [
+        {
+            "model": "SM-F7310",
+            "version": "F7310ZSU1BWKE",
+            "description": "SM-F7310_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-S901E",
             "version": "S901EXXU7DWK4",
@@ -45,11 +50,6 @@
             "model": "SM-X115",
             "version": "X115XXU1AWHH",
             "description": "SM-X115_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X110",
-            "version": "X110XXU1AWHH",
-            "description": "SM-X110_13_Opensource.zip"
         }
     ]
 }
