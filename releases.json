@@ -1,10 +1,30 @@
 {
-    "fetch_date": "2023/12/14 14:15:46",
+    "fetch_date": "2023/12/14 14:37:32",
     "releases": [
+        {
+            "model": "SM-S901E",
+            "version": "S901EXXU7DWK4",
+            "description": "SM-S901E_KOR_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G988N",
+            "version": "G988NKSS3IWK1",
+            "description": "SM-G988N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-S918N",
             "version": "S918NKSU2BWK7",
             "description": "SM-S918N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-S916N",
+            "version": "S916NKSU2BWK7",
+            "description": "SM-S916N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-S911N",
+            "version": "S911NKSU2BWK7",
+            "description": "SM-S911N_KOR_14_Opensource.zip"
         },
         {
             "model": "SM-X818U",
@@ -30,26 +50,6 @@
             "model": "SM-X110",
             "version": "X110XXU1AWHH",
             "description": "SM-X110_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A055F",
-            "version": "A055FXXU1AWH4",
-            "description": "SM-A055F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X518U",
-            "version": "X518USQS1AWK2",
-            "description": "SM-X518U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A057F",
-            "version": "A057FXXU1AWI7",
-            "description": "SM-A057F_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F9460",
-            "version": "F9460ZCU1BWKE",
-            "description": "SM-F9460_CHN_14_Opensource.zip"
         }
     ]
 }
