@@ -1,6 +1,41 @@
 {
-    "fetch_date": "2023/12/19 11:37:45",
+    "fetch_date": "2023/12/19 12:15:59",
     "releases": [
+        {
+            "model": "SM-M336B",
+            "version": "M336BXXU5DWK6",
+            "description": "SM-M336B_CIS_14_Opensource.zip"
+        },
+        {
+            "model": "SM-G990B",
+            "version": "G990BXXU6FWK3",
+            "description": "SM-G990B_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A528B",
+            "version": "A528BXXU5FWK4",
+            "description": "SM-A528B_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-S906E",
+            "version": "S906EXXU7DWK4",
+            "description": "SM-S906E_SEA_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A336B",
+            "version": "A336BXXU7DWK6",
+            "description": "SM-A336B_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A715W",
+            "version": "A715WVLU6EWH4",
+            "description": "SM-A715W_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T507",
+            "version": "T507JXS5CWI2",
+            "description": "SM-T507_MEA_12_Opensource.zip"
+        },
         {
             "model": "SM-F7310",
             "version": "F7310ZSU1BWKE",
@@ -15,41 +50,6 @@
             "model": "SM-G988N",
             "version": "G988NKSS3IWK1",
             "description": "SM-G988N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-S918N",
-            "version": "S918NKSU2BWK7",
-            "description": "SM-S918N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S916N",
-            "version": "S916NKSU2BWK7",
-            "description": "SM-S916N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S911N",
-            "version": "S911NKSU2BWK7",
-            "description": "SM-S911N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X818U",
-            "version": "X818USQU1BWK6",
-            "description": "SM-X818U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F7310",
-            "version": "F7310ZCU1BWKE",
-            "description": "SM-F7310_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F9460",
-            "version": "F9460ZSU1BWKE",
-            "description": "SM-F9460_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X115",
-            "version": "X115XXU1AWHH",
-            "description": "SM-X115_13_Opensource.zip"
         }
     ]
 }
