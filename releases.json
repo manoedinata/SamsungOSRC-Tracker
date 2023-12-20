@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/20 15:37:18",
+    "fetch_date": "2023/12/20 16:13:31",
     "releases": [
+        {
+            "model": "SM-X710",
+            "version": "X710XXU1AWG1",
+            "description": "SM-X710_13_Opensource.zip"
+        },
         {
             "model": "SM-M336B",
             "version": "M336BXXU5DWK6",
@@ -45,11 +50,6 @@
             "model": "SM-S901E",
             "version": "S901EXXU7DWK4",
             "description": "SM-S901E_SEA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-G988N",
-            "version": "G988NKSS3IWK1",
-            "description": "SM-G988N_KOR_13_Opensource.zip"
         }
     ]
 }
