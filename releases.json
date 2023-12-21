@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/21 12:37:12",
+    "fetch_date": "2023/12/21 13:21:44",
     "releases": [
+        {
+            "model": "SM-X810",
+            "version": "X810XXU1AWG1",
+            "description": "SM-X810_13_Opensource.zip"
+        },
         {
             "model": "SM-A256U",
             "version": "A256USQU1AWL1",
@@ -45,11 +50,6 @@
             "model": "SM-A715W",
             "version": "A715WVLU6EWH4",
             "description": "SM-A715W_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T507",
-            "version": "T507JXS5CWI2",
-            "description": "SM-T507_MEA_12_Opensource.zip"
         }
     ]
 }
