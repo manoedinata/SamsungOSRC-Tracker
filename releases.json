@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/21 16:16:24",
+    "fetch_date": "2023/12/21 16:37:27",
     "releases": [
+        {
+            "model": "SM-X810",
+            "version": "X810XXU1BWK6",
+            "description": "SM-X810_14_Opensource.zip"
+        },
         {
             "model": "SM-X810",
             "version": "X810XXU1AWG1",
@@ -45,11 +50,6 @@
             "model": "SM-A336B",
             "version": "A336BXXU7DWK6",
             "description": "SM-A336B_EUR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A715W",
-            "version": "A715WVLU6EWH4",
-            "description": "SM-A715W_NA_13_Opensource.zip"
         }
     ]
 }
