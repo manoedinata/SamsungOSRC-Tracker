@@ -1,6 +1,41 @@
 {
-    "fetch_date": "2023/12/22 11:37:51",
+    "fetch_date": "2023/12/22 12:16:00",
     "releases": [
+        {
+            "model": "SM-X800",
+            "version": "X800XXU5CWL1",
+            "description": "SM-X800_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-M136B",
+            "version": "M136BXXS5CWI4",
+            "description": "SM-M136B_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G998U",
+            "version": "G998USQS9EWK1",
+            "description": "SM-G998U_NA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G935J",
+            "version": "SCV33KDU1CRH2",
+            "description": "SM-G935J_JPN_OO_Opensource.zip"
+        },
+        {
+            "model": "SM-S908E",
+            "version": "S908EXXU7DWK4",
+            "description": "SM-S908E_SEA_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A405FN",
+            "version": "A405FNXXU4CWC3",
+            "description": "SM-A405FN_EUR_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-T500",
+            "version": "T500XXS6CWI3",
+            "description": "SM-T500_EUR_12_Opensource.zip"
+        },
         {
             "model": "SM-X816B",
             "version": "X816BXXU1AWG1",
@@ -15,41 +50,6 @@
             "model": "SM-X716B",
             "version": "X716BXXU1AWG1",
             "description": "SM-X716B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-W9024",
-            "version": "W9024ZCU1BWKE",
-            "description": "SM-W9024_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X810",
-            "version": "X810XXU1BWK6",
-            "description": "SM-X810_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X810",
-            "version": "X810XXU1AWG1",
-            "description": "SM-X810_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A256U",
-            "version": "A256USQU1AWL1",
-            "description": "SM-A256U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X710",
-            "version": "X710XXU1BWK6",
-            "description": "SM-X710_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X710",
-            "version": "X710XXU1AWG1",
-            "description": "SM-X710_13_Opensource.zip"
-        },
-        {
-            "model": "SM-M336B",
-            "version": "M336BXXU5DWK6",
-            "description": "SM-M336B_CIS_14_Opensource.zip"
         }
     ]
 }
