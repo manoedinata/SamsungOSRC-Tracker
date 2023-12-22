@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/22 08:13:10",
+    "fetch_date": "2023/12/22 09:07:56",
     "releases": [
+        {
+            "model": "SM-X816B",
+            "version": "X816BXXU1AWG1",
+            "description": "SM-X816B_13_Opensource.zip"
+        },
         {
             "model": "SM-W7024",
             "version": "W7024ZCU1BWKE",
@@ -45,11 +50,6 @@
             "model": "SM-M336B",
             "version": "M336BXXU5DWK6",
             "description": "SM-M336B_CIS_14_Opensource.zip"
-        },
-        {
-            "model": "SM-G990B",
-            "version": "G990BXXU6FWK3",
-            "description": "SM-G990B_EUR_14_Opensource.zip"
         }
     ]
 }
