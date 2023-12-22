@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2023/12/22 15:20:17",
+    "fetch_date": "2023/12/22 15:37:48",
     "releases": [
+        {
+            "model": "SM-X916B",
+            "version": "X916BXXU1BWK6",
+            "description": "SM-X916B_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A528B",
+            "version": "A528BZTU5FWK6",
+            "description": "SM-A528B_TW_14_Opensource.zip"
+        },
         {
             "model": "SM-X800",
             "version": "X800XXU5CWL1",
@@ -40,16 +50,6 @@
             "model": "SM-X816B",
             "version": "X816BXXU1AWG1",
             "description": "SM-X816B_13_Opensource.zip"
-        },
-        {
-            "model": "SM-W7024",
-            "version": "W7024ZCU1BWKE",
-            "description": "SM-W7024_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X716B",
-            "version": "X716BXXU1AWG1",
-            "description": "SM-X716B_13_Opensource.zip"
         }
     ]
 }
