@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/26 17:17:13",
+    "fetch_date": "2023/12/26 17:37:22",
     "releases": [
+        {
+            "model": "SM-M236B",
+            "version": "M236BXXU5DWL1",
+            "description": "SM-M236B_EUR_14_Opensource.zip"
+        },
         {
             "model": "SM-F7210",
             "version": "F7210ZCU3EWL1",
@@ -45,11 +50,6 @@
             "model": "SM-G935J",
             "version": "SCV33KDU1CRH2",
             "description": "SM-G935J_JPN_OO_Opensource.zip"
-        },
-        {
-            "model": "SM-S908E",
-            "version": "S908EXXU7DWK4",
-            "description": "SM-S908E_SEA_14_Opensource.zip"
         }
     ]
 }
