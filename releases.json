@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/26 12:37:22",
+    "fetch_date": "2023/12/26 13:21:21",
     "releases": [
+        {
+            "model": "SM-F7210",
+            "version": "F7210ZCU3EWL1",
+            "description": "SM-F7210_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-X816B",
             "version": "X816BXXU1BWK6",
@@ -45,11 +50,6 @@
             "model": "SM-S908E",
             "version": "S908EXXU7DWK4",
             "description": "SM-S908E_SEA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A405FN",
-            "version": "A405FNXXU4CWC3",
-            "description": "SM-A405FN_EUR_RR_Opensource.zip"
         }
     ]
 }
