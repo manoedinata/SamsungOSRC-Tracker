@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/26 19:30:21",
+    "fetch_date": "2023/12/26 20:18:22",
     "releases": [
+        {
+            "model": "SM-F9360",
+            "version": "F9360ZCU3EWL1",
+            "description": "SM-F9360_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-M236B",
             "version": "M236BXXU5DWL1",
@@ -45,11 +50,6 @@
             "model": "SM-G998U",
             "version": "G998USQS9EWK1",
             "description": "SM-G998U_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G935J",
-            "version": "SCV33KDU1CRH2",
-            "description": "SM-G935J_JPN_OO_Opensource.zip"
         }
     ]
 }
