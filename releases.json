@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/27 14:37:22",
+    "fetch_date": "2023/12/27 15:19:59",
     "releases": [
+        {
+            "model": "SM-W9023",
+            "version": "W9023ZCU3EWL1",
+            "description": "SM-W9023_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-A146B",
             "version": "A146BXXU2CWK9",
@@ -45,11 +50,6 @@
             "model": "SM-X800",
             "version": "X800XXU5CWL1",
             "description": "SM-X800_EUR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M136B",
-            "version": "M136BXXS5CWI4",
-            "description": "SM-M136B_SWA_13_Opensource.zip"
         }
     ]
 }
