@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/27 13:21:46",
+    "fetch_date": "2023/12/27 13:38:53",
     "releases": [
+        {
+            "model": "SM-A146B",
+            "version": "A146BXXU2CWK9",
+            "description": "SM-A146B_14_Opensource.zip"
+        },
         {
             "model": "SM-F9360",
             "version": "F9360ZCU3EWL1",
@@ -45,11 +50,6 @@
             "model": "SM-M136B",
             "version": "M136BXXS5CWI4",
             "description": "SM-M136B_SWA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G998U",
-            "version": "G998USQS9EWK1",
-            "description": "SM-G998U_NA_13_Opensource.zip"
         }
     ]
 }
