@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/28 17:37:18",
+    "fetch_date": "2023/12/28 18:13:34",
     "releases": [
+        {
+            "model": "SM-X716B",
+            "version": "X716BXXU1BWK6",
+            "description": "SM-X716B_14_Opensource.zip"
+        },
         {
             "model": "SM-A346B",
             "version": "A346BXXU4BWK2",
@@ -45,11 +50,6 @@
             "model": "SM-T225N",
             "version": "T225NKOS5CWK2",
             "description": "SM-T225N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X916B",
-            "version": "X916BXXU1BWK6",
-            "description": "SM-X916B_14_Opensource.zip"
         }
     ]
 }
