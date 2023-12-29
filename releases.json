@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2023/12/29 14:37:20",
+    "fetch_date": "2023/12/29 15:19:54",
     "releases": [
+        {
+            "model": "SM-A346E",
+            "version": "A346EXXU4BWK2",
+            "description": "SM-A346E_SEA_14_Opensource.zip"
+        },
         {
             "model": "SM-X716B",
             "version": "X716BXXU1BWK6",
@@ -45,11 +50,6 @@
             "model": "SM-X816B",
             "version": "X816BXXU1BWK6",
             "description": "SM-X816B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-T225N",
-            "version": "T225NKOS5CWK2",
-            "description": "SM-T225N_KOR_13_Opensource.zip"
         }
     ]
 }
