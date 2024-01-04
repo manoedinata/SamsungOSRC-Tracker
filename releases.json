@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/04 15:38:08",
+    "fetch_date": "2024/01/04 16:16:48",
     "releases": [
+        {
+            "model": "SM-A5360",
+            "version": "A5360ZHU7DWK7",
+            "description": "SM-A5360_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-A245F",
             "version": "A245FXXU3BWK3",
@@ -45,11 +50,6 @@
             "model": "SM-F9360",
             "version": "F9360ZCU3EWL1",
             "description": "SM-F9360_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M236B",
-            "version": "M236BXXU5DWL1",
-            "description": "SM-M236B_EUR_14_Opensource.zip"
         }
     ]
 }
