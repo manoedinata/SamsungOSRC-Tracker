@@ -1,6 +1,31 @@
 {
-    "fetch_date": "2024/01/05 11:38:20",
+    "fetch_date": "2024/01/05 12:15:59",
     "releases": [
+        {
+            "model": "SM-A326B",
+            "version": "A326BXXU4CWA2",
+            "description": "SM-A326B_SEA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-G996N",
+            "version": "G996NKSU4FWK7",
+            "description": "SM-G996N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-T290",
+            "version": "T290UES5CWG5",
+            "description": "SM-T290_NA_RR_Opensource.zip"
+        },
+        {
+            "model": "SM-G780F",
+            "version": "G780FXXSEFWK8",
+            "description": "SM-G780F_CIS_13_Opensource.zip"
+        },
+        {
+            "model": "SM-T860",
+            "version": "T860XXS5DWH1",
+            "description": "SM-T860_EUR_12_Opensource.zip"
+        },
         {
             "model": "SM-A155F",
             "version": "A155FXXU1AWKA",
@@ -25,31 +50,6 @@
             "model": "SM-A346E",
             "version": "A346EXXU4BWK2",
             "description": "SM-A346E_SEA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X716B",
-            "version": "X716BXXU1BWK6",
-            "description": "SM-X716B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A346B",
-            "version": "A346BXXU4BWK2",
-            "description": "SM-A346B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A5360",
-            "version": "A5360ZCU7DWK7",
-            "description": "SM-A5360_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-W9023",
-            "version": "W9023ZCU3EWL1",
-            "description": "SM-W9023_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A146B",
-            "version": "A146BXXU2CWK9",
-            "description": "SM-A146B_14_Opensource.zip"
         }
     ]
 }
