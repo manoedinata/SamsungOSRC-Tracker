@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/05 15:38:01",
+    "fetch_date": "2024/01/05 16:16:27",
     "releases": [
+        {
+            "model": "SM-S9080",
+            "version": "S9080ZCU4DWL1",
+            "description": "SM-S9080_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-S9060",
             "version": "S9060ZCU4DWL1",
@@ -45,11 +50,6 @@
             "model": "SM-A5360",
             "version": "A5360ZHU7DWK7",
             "description": "SM-A5360_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A245F",
-            "version": "A245FXXU3BWK3",
-            "description": "SM-A245F_14_Opensource.zip"
         }
     ]
 }
