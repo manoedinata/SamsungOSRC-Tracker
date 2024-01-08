@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/08 12:37:28",
+    "fetch_date": "2024/01/08 13:22:46",
     "releases": [
+        {
+            "model": "SM-S9060",
+            "version": "S9060ZHU4DWK8",
+            "description": "SM-S9060_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-S9010",
             "version": "S9010ZHU4DWK8",
@@ -45,11 +50,6 @@
             "model": "SM-G780F",
             "version": "G780FXXSEFWK8",
             "description": "SM-G780F_CIS_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T860",
-            "version": "T860XXS5DWH1",
-            "description": "SM-T860_EUR_12_Opensource.zip"
         }
     ]
 }
