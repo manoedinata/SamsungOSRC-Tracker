@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/08 13:22:46",
+    "fetch_date": "2024/01/08 13:39:34",
     "releases": [
+        {
+            "model": "SM-F731B",
+            "version": "F731BXXU1BWK9",
+            "description": "SM-F731B_14_Opensource.zip"
+        },
         {
             "model": "SM-S9060",
             "version": "S9060ZHU4DWK8",
@@ -45,11 +50,6 @@
             "model": "SM-T290",
             "version": "T290UES5CWG5",
             "description": "SM-T290_NA_RR_Opensource.zip"
-        },
-        {
-            "model": "SM-G780F",
-            "version": "G780FXXSEFWK8",
-            "description": "SM-G780F_CIS_13_Opensource.zip"
         }
     ]
 }
