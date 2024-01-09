@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/09 16:37:31",
+    "fetch_date": "2024/01/09 17:18:31",
     "releases": [
+        {
+            "model": "SM-G9910",
+            "version": "G9910ZHU6FWK7",
+            "description": "SM-G9910_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-S9080",
             "version": "S9080ZHU4DWK8",
@@ -45,11 +50,6 @@
             "model": "SM-T976N",
             "version": "T976NKOU2FVK4",
             "description": "SM-T976N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X205N",
-            "version": "X205NKOU2CWF8",
-            "description": "SM-X205N_KOR_13_Opensource.zip"
         }
     ]
 }
