@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/09 15:38:49",
+    "fetch_date": "2024/01/09 16:16:51",
     "releases": [
+        {
+            "model": "SM-S9080",
+            "version": "S9080ZHU4DWK8",
+            "description": "SM-S9080_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-A546S",
             "version": "A546SKSU2BWK7",
@@ -45,11 +50,6 @@
             "model": "SM-X205N",
             "version": "X205NKOU2CWF8",
             "description": "SM-X205N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F731B",
-            "version": "F731BXXU1BWK9",
-            "description": "SM-F731B_14_Opensource.zip"
         }
     ]
 }
