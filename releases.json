@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/09 17:39:15",
+    "fetch_date": "2024/01/09 18:14:21",
     "releases": [
+        {
+            "model": "SM-F936B",
+            "version": "F936BXXU4EWL1",
+            "description": "SM-F936B_14_Opensource.zip"
+        },
         {
             "model": "SM-G9910",
             "version": "G9910ZHU6FWK7",
@@ -45,11 +50,6 @@
             "model": "SM-T975N",
             "version": "T975NKOU2FVK4",
             "description": "SM-T975N_KOR_13_Opensource.zip"
-        },
-        {
-            "model": "SM-T976N",
-            "version": "T976NKOU2FVK4",
-            "description": "SM-T976N_KOR_13_Opensource.zip"
         }
     ]
 }
