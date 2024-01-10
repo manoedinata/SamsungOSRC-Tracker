@@ -1,6 +1,36 @@
 {
-    "fetch_date": "2024/01/10 14:37:28",
+    "fetch_date": "2024/01/10 15:21:35",
     "releases": [
+        {
+            "model": "SM-F946N",
+            "version": "F946NKSU1BWK9",
+            "description": "SM-F946N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X716N",
+            "version": "X716NKOU1BWK6",
+            "description": "SM-X716N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-F731N",
+            "version": "F731NKSU1BWK9",
+            "description": "SM-F731N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-F711B",
+            "version": "F711BXXU6GWL1",
+            "description": "SM-F711B_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X816N",
+            "version": "X816NKOU1BWK6",
+            "description": "SM-X816N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X916N",
+            "version": "X916NKOU1BWK6",
+            "description": "SM-X916N_KOR_14_Opensource.zip"
+        },
         {
             "model": "SM-G9910",
             "version": "G9910ZCU6FWL2",
@@ -20,36 +50,6 @@
             "model": "SM-F936U",
             "version": "F936USQU3EWL1",
             "description": "SM-F936U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F721U",
-            "version": "F721USQU3EWL1",
-            "description": "SM-F721U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F936B",
-            "version": "F936BXXU4EWL1",
-            "description": "SM-F936B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-G9910",
-            "version": "G9910ZHU6FWK7",
-            "description": "SM-G9910_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S9080",
-            "version": "S9080ZHU4DWK8",
-            "description": "SM-S9080_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A546S",
-            "version": "A546SKSU2BWK7",
-            "description": "SM-A546S_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A047F",
-            "version": "A047FXXS6CWL7",
-            "description": "SM-A047F_SWA_13_Opensource.zip"
         }
     ]
 }
