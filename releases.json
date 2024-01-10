@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/10 15:21:35",
+    "fetch_date": "2024/01/10 15:39:10",
     "releases": [
+        {
+            "model": "SM-G9960",
+            "version": "G9960ZCU6FWL2",
+            "description": "SM-G9960_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-F946N",
             "version": "F946NKSU1BWK9",
@@ -45,11 +50,6 @@
             "model": "SM-A032M",
             "version": "A032MUBU3CWL2",
             "description": "SM-A032M_LATIN_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F936U",
-            "version": "F936USQU3EWL1",
-            "description": "SM-F936U_NA_14_Opensource.zip"
         }
     ]
 }
