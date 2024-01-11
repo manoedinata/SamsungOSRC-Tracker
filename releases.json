@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/11 17:39:01",
+    "fetch_date": "2024/01/11 18:14:18",
     "releases": [
+        {
+            "model": "SM-F7110",
+            "version": "F7110ZCU5GWL1",
+            "description": "SM-F7110_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-F721B",
             "version": "F721BXXU4EWL1",
@@ -45,11 +50,6 @@
             "model": "SM-G9980",
             "version": "G9980ZCU6FWL2",
             "description": "SM-G9980_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A035M",
-            "version": "A035MUBS5CWL2",
-            "description": "SM-A035M_LATIN_13_Opensource.zip"
         }
     ]
 }
