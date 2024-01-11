@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2024/01/11 12:37:24",
+    "fetch_date": "2024/01/11 13:22:22",
     "releases": [
+        {
+            "model": "SM-A042F",
+            "version": "A042FXXU3CWH2",
+            "description": "SM-A042F_SWA_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A525F",
+            "version": "A525FXXU6EWL3",
+            "description": "SM-A525F_CIS_14_Opensource.zip"
+        },
+        {
+            "model": "SM-G9980",
+            "version": "G9980ZCU6FWL2",
+            "description": "SM-G9980_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-A035M",
             "version": "A035MUBS5CWL2",
@@ -35,21 +50,6 @@
             "model": "SM-F711B",
             "version": "F711BXXU6GWL1",
             "description": "SM-F711B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X816N",
-            "version": "X816NKOU1BWK6",
-            "description": "SM-X816N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X916N",
-            "version": "X916NKOU1BWK6",
-            "description": "SM-X916N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-G9910",
-            "version": "G9910ZCU6FWL2",
-            "description": "SM-G9910_CHN_14_Opensource.zip"
         }
     ]
 }
