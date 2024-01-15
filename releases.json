@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2024/01/15 18:37:27",
+    "fetch_date": "2024/01/15 19:33:00",
     "releases": [
         {
             "model": "SM-A217F",
@@ -28,7 +28,7 @@
         },
         {
             "model": "SM-F7110",
-            "version": "F7110ZCU5GWL1",
+            "version": "F7110ZCU5GWL1,  F7110TBU5GWL1",
             "description": "SM-F7110_CHN_14_Opensource.zip"
         },
         {
