@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/16 15:21:50",
+    "fetch_date": "2024/01/16 15:39:24",
     "releases": [
+        {
+            "model": "SM-F9260",
+            "version": "F9260ZSU4HWL1",
+            "description": "SM-F9260_HK_14_Opensource.zip"
+        },
         {
             "model": "SM-A546E",
             "version": "A546EXXS6BWL2",
@@ -45,11 +50,6 @@
             "model": "SM-F9260",
             "version": "F9260ZCU4HWL1,  F9260TBU4HWL1",
             "description": "SM-F9260_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F7110",
-            "version": "F7110ZSU5GWL1",
-            "description": "SM-F7110_HK_14_Opensource.zip"
         }
     ]
 }
