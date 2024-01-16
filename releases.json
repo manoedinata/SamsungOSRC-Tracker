@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/16 13:39:23",
+    "fetch_date": "2024/01/16 14:15:46",
     "releases": [
+        {
+            "model": "SM-T290",
+            "version": "T290XXS4CWC1",
+            "description": "SM-T290_SEA_RR_Opensource.zip"
+        },
         {
             "model": "SM-A045M",
             "version": "A045MUBS4CWK5",
@@ -45,11 +50,6 @@
             "model": "SM-S908N",
             "version": "S908NKSU3DWKA",
             "description": "SM-S908N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S906N",
-            "version": "S906NKSU3DWKA",
-            "description": "SM-S906N_KOR_14_Opensource.zip"
         }
     ]
 }
