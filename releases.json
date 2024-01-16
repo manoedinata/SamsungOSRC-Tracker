@@ -1,9 +1,9 @@
 {
-    "fetch_date": "2024/01/16 15:39:24",
+    "fetch_date": "2024/01/16 16:16:59",
     "releases": [
         {
             "model": "SM-F9260",
-            "version": "F9260ZSU4HWL1",
+            "version": "F9260ZSU4HWL1,  F9260TSU4HWL1",
             "description": "SM-F9260_HK_14_Opensource.zip"
         },
         {
