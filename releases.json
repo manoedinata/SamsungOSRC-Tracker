@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2024/01/16 14:15:46",
+    "fetch_date": "2024/01/16 14:37:35",
     "releases": [
+        {
+            "model": "SM-A546E",
+            "version": "A546EXXS6BWL2",
+            "description": "SM-A546E_SEA_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A236B",
+            "version": "A236BXXU4DWKA",
+            "description": "SM-A236B_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-T225N",
+            "version": "T225NKOS6CWL1",
+            "description": "SM-T225N_KOR_13_Opensource.zip"
+        },
         {
             "model": "SM-T290",
             "version": "T290XXS4CWC1",
@@ -35,21 +50,6 @@
             "model": "SM-F7110",
             "version": "F7110ZSU5GWL1",
             "description": "SM-F7110_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F7110",
-            "version": "F7110ZCU5GWL1,  F7110TBU5GWL1",
-            "description": "SM-F7110_CHN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F721B",
-            "version": "F721BXXU4EWL1",
-            "description": "SM-F721B_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S908N",
-            "version": "S908NKSU3DWKA",
-            "description": "SM-S908N_KOR_14_Opensource.zip"
         }
     ]
 }
