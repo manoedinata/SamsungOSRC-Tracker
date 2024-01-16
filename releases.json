@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/16 08:15:58",
+    "fetch_date": "2024/01/16 09:11:46",
     "releases": [
+        {
+            "model": "SM-A045M",
+            "version": "A045MUBS4CWK5",
+            "description": "SM-A045M_LATIN_13_Opensource.zip"
+        },
         {
             "model": "SM-A217F",
             "version": "A217FXXSADWI1",
@@ -45,11 +50,6 @@
             "model": "SM-S906N",
             "version": "S906NKSU3DWKA",
             "description": "SM-S906N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S901N",
-            "version": "S901NKSU3DWKA",
-            "description": "SM-S901N_KOR_14_Opensource.zip"
         }
     ]
 }
