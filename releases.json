@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/17 15:39:20",
+    "fetch_date": "2024/01/17 16:17:38",
     "releases": [
+        {
+            "model": "SM-W2022",
+            "version": "W2022ZCU4HWL1",
+            "description": "SM-W2022_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-F9260",
             "version": "F9260ZSU4HWL1,  F9260TSU4HWL1",
@@ -45,11 +50,6 @@
             "model": "SM-M127F",
             "version": "M127FXXS6DWK2",
             "description": "SM-M127F_MEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-F9260",
-            "version": "F9260ZCU4HWL1,  F9260TBU4HWL1",
-            "description": "SM-F9260_CHN_14_Opensource.zip"
         }
     ]
 }
