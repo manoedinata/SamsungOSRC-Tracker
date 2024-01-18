@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/18 16:17:18",
+    "fetch_date": "2024/01/18 16:37:36",
     "releases": [
+        {
+            "model": "SM-G985F",
+            "version": "G985FXXSIHWKH",
+            "description": "SM-G985F_SWA_13_Opensource.zip"
+        },
         {
             "model": "SM-X706N",
             "version": "X706NKOU5FWK7",
@@ -45,11 +50,6 @@
             "model": "SM-F9260",
             "version": "F9260ZSU4HWL1,  F9260TSU4HWL1",
             "description": "SM-F9260_HK_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A546E",
-            "version": "A546EXXS6BWL2",
-            "description": "SM-A546E_SEA_14_Opensource.zip"
         }
     ]
 }
