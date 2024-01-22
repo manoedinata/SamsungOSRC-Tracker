@@ -1,6 +1,16 @@
 {
-    "fetch_date": "2024/01/22 17:19:03",
+    "fetch_date": "2024/01/22 17:39:57",
     "releases": [
+        {
+            "model": "SM-A245N",
+            "version": "A245NKSU2BWL1",
+            "description": "SM-A245N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A125F",
+            "version": "A125FXXS4CWK1",
+            "description": "SM-A125F_CIS_12_Opensource.zip"
+        },
         {
             "model": "SM-E236B",
             "version": "E236BXXU5DWL2",
@@ -40,16 +50,6 @@
             "model": "SM-J415FN",
             "version": "J415FNXXS6BVJ1",
             "description": "SM-J415FN_CIS_PP_Opensource.zip"
-        },
-        {
-            "model": "SM-G985F",
-            "version": "G985FXXSIHWKH",
-            "description": "SM-G985F_SWA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-X706N",
-            "version": "X706NKOU5FWK7",
-            "description": "SM-X706N_KOR_14_Opensource.zip"
         }
     ]
 }
