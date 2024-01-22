@@ -1,6 +1,31 @@
 {
-    "fetch_date": "2024/01/22 17:39:57",
+    "fetch_date": "2024/01/22 18:15:00",
     "releases": [
+        {
+            "model": "SM-X900",
+            "version": "X900OPU5CWK7",
+            "description": "SM-X900_JPN_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X800",
+            "version": "X800OPU5CWK7",
+            "description": "SM-X800_JPN_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A536N",
+            "version": "A536NKSU4DWL1",
+            "description": "SM-A536N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-M536B",
+            "version": "M536BXXS5DWL3",
+            "description": "SM-M536B_SWA_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A336E",
+            "version": "A336EDXS7CWJ1",
+            "description": "SM-A336E_SEA_13_Opensource.zip"
+        },
         {
             "model": "SM-A245N",
             "version": "A245NKSU2BWL1",
@@ -25,31 +50,6 @@
             "model": "SM-G998N",
             "version": "G998NKSU4FWK7",
             "description": "SM-G998N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F721N",
-            "version": "F721NKSU2EWL1",
-            "description": "SM-F721N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F936N",
-            "version": "F936NKSU2EWL1",
-            "description": "SM-F936N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A336N",
-            "version": "A336NKSU5DWL1",
-            "description": "SM-A336N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A346N",
-            "version": "A346NKSU3BWK3",
-            "description": "SM-A346N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-J415FN",
-            "version": "J415FNXXS6BVJ1",
-            "description": "SM-J415FN_CIS_PP_Opensource.zip"
         }
     ]
 }
