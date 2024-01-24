@@ -1,6 +1,26 @@
 {
-    "fetch_date": "2024/01/24 15:21:59",
+    "fetch_date": "2024/01/24 15:39:33",
     "releases": [
+        {
+            "model": "SM-M336K",
+            "version": "M336KKSU5DWK6",
+            "description": "SM-M336K_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-F926N",
+            "version": "F926NKSU2HWL1",
+            "description": "SM-F926N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-F711N",
+            "version": "F711NKSU3HWL1",
+            "description": "SM-F711N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-M536S",
+            "version": "M536SKSU4DWL1",
+            "description": "SM-M536S_KOR_14_Opensource.zip"
+        },
         {
             "model": "SM-F926U",
             "version": "F926USQS4HWL7",
@@ -30,26 +50,6 @@
             "model": "SM-M536B",
             "version": "M536BXXS5DWL3",
             "description": "SM-M536B_SWA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A336E",
-            "version": "A336EDXS7CWJ1",
-            "description": "SM-A336E_SEA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-A245N",
-            "version": "A245NKSU2BWL1",
-            "description": "SM-A245N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A125F",
-            "version": "A125FXXS4CWK1",
-            "description": "SM-A125F_CIS_12_Opensource.zip"
-        },
-        {
-            "model": "SM-E236B",
-            "version": "E236BXXU5DWL2",
-            "description": "SM-E236B_SWA_14_Opensource.zip"
         }
     ]
 }
