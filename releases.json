@@ -1,6 +1,21 @@
 {
-    "fetch_date": "2024/01/24 18:14:29",
+    "fetch_date": "2024/01/24 18:37:23",
     "releases": [
+        {
+            "model": "SM-T636N",
+            "version": "T636NKOU4CWL5",
+            "description": "SM-T636N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-P613",
+            "version": "P613XXU4CWL1",
+            "description": "SM-P613_EUR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-M236L",
+            "version": "M236LKSU4DWL1",
+            "description": "SM-M236L_KOR_14_Opensource.zip"
+        },
         {
             "model": "SM-M336K",
             "version": "M336KKSU5DWK6",
@@ -35,21 +50,6 @@
             "model": "SM-X900",
             "version": "X900OPU5CWK7",
             "description": "SM-X900_JPN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X800",
-            "version": "X800OPU5CWK7",
-            "description": "SM-X800_JPN_14_Opensource.zip"
-        },
-        {
-            "model": "SM-A536N",
-            "version": "A536NKSU4DWL1",
-            "description": "SM-A536N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M536B",
-            "version": "M536BXXS5DWL3",
-            "description": "SM-M536B_SWA_14_Opensource.zip"
         }
     ]
 }
