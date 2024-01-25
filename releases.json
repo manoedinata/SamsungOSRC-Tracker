@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/25 13:39:49",
+    "fetch_date": "2024/01/25 14:16:21",
     "releases": [
+        {
+            "model": "SM-S7110",
+            "version": "S7110ZCU1BWL2",
+            "description": "SM-S7110_CHN_14_Opensource.zip"
+        },
         {
             "model": "SM-A055F",
             "version": "A055FXXU2AWK1",
@@ -45,11 +50,6 @@
             "model": "SM-F711N",
             "version": "F711NKSU3HWL1",
             "description": "SM-F711N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M536S",
-            "version": "M536SKSU4DWL1",
-            "description": "SM-M536S_KOR_14_Opensource.zip"
         }
     ]
 }
