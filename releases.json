@@ -1,10 +1,35 @@
 {
-    "fetch_date": "2024/01/25 16:37:33",
+    "fetch_date": "2024/01/25 17:18:32",
     "releases": [
         {
             "model": "SM-X210",
             "version": "X210XXU1AWJ1, X210XXS1AWK2",
             "description": "SM-X210_13_Opensource.zip"
+        },
+        {
+            "model": "SM-A135N",
+            "version": "A135NKSU5DWL5",
+            "description": "SM-A135N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X616N",
+            "version": "X616NKOU1BWKA",
+            "description": "SM-X616N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-X516N",
+            "version": "X516NKOU1BWKA",
+            "description": "SM-X516N_KOR_14_Opensource.zip"
+        },
+        {
+            "model": "SM-M136B",
+            "version": "M136BXXS6DWL1",
+            "description": "SM-M136B_SWA_14_Opensource.zip"
+        },
+        {
+            "model": "SM-A826S",
+            "version": "A826SKSU4FWL2",
+            "description": "SM-A826S_KOR_14_Opensource.zip"
         },
         {
             "model": "SM-S7110",
@@ -25,31 +50,6 @@
             "model": "SM-S908U1",
             "version": "S908U1UEU3CWGI",
             "description": "SM-S908U1_NA_13_Opensource.zip"
-        },
-        {
-            "model": "SM-G990B",
-            "version": "G990BXXS6FWL5",
-            "description": "SM-G990B_EUR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-T636N",
-            "version": "T636NKOU4CWL5",
-            "description": "SM-T636N_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-P613",
-            "version": "P613XXU4CWL1",
-            "description": "SM-P613_EUR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M236L",
-            "version": "M236LKSU4DWL1",
-            "description": "SM-M236L_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-M336K",
-            "version": "M336KKSU5DWK6",
-            "description": "SM-M336K_KOR_14_Opensource.zip"
         }
     ]
 }
