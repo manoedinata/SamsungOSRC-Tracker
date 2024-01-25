@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/25 16:17:15",
+    "fetch_date": "2024/01/25 16:37:33",
     "releases": [
+        {
+            "model": "SM-X210",
+            "version": "X210XXU1AWJ1, X210XXS1AWK2",
+            "description": "SM-X210_13_Opensource.zip"
+        },
         {
             "model": "SM-S7110",
             "version": "S7110ZHU1BWL2",
@@ -45,11 +50,6 @@
             "model": "SM-M336K",
             "version": "M336KKSU5DWK6",
             "description": "SM-M336K_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-F926N",
-            "version": "F926NKSU2HWL1",
-            "description": "SM-F926N_KOR_14_Opensource.zip"
         }
     ]
 }
