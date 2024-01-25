@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/25 08:17:42",
+    "fetch_date": "2024/01/25 09:18:53",
     "releases": [
+        {
+            "model": "SM-G990B",
+            "version": "G990BXXS6FWL5",
+            "description": "SM-G990B_EUR_14_Opensource.zip"
+        },
         {
             "model": "SM-T636N",
             "version": "T636NKOU4CWL5",
@@ -45,11 +50,6 @@
             "model": "SM-F711U",
             "version": "F711USQS5HWL7",
             "description": "SM-F711U_NA_14_Opensource.zip"
-        },
-        {
-            "model": "SM-X900",
-            "version": "X900OPU5CWK7",
-            "description": "SM-X900_JPN_14_Opensource.zip"
         }
     ]
 }
