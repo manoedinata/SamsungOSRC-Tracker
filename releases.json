@@ -1,6 +1,11 @@
 {
-    "fetch_date": "2024/01/26 16:37:43",
+    "fetch_date": "2024/01/26 17:17:26",
     "releases": [
+        {
+            "model": "SM-A135F",
+            "version": "A135FXXU5DXA4",
+            "description": "SM-A135F_SWA_14_Opensource.zip"
+        },
         {
             "model": "SM-S711N",
             "version": "S711NKSU1AWK3",
@@ -45,11 +50,6 @@
             "model": "SM-A826S",
             "version": "A826SKSU4FWL2",
             "description": "SM-A826S_KOR_14_Opensource.zip"
-        },
-        {
-            "model": "SM-S7110",
-            "version": "S7110ZHU1BWL2",
-            "description": "SM-S7110_HK_14_Opensource.zip"
         }
     ]
 }
