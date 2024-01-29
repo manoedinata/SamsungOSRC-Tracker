@@ -1,5 +1,5 @@
 {
-    "fetch_date": "2024/01/29 06:37:31",
+    "fetch_date": "2024/01/29 08:10:53",
     "releases": [
         {
             "model": "SM-A135F",
@@ -47,9 +47,9 @@
             "description": "SM-M136B_SWA_14_Opensource.zip"
         },
         {
-            "model": "SM-A826S",
-            "version": "A826SKSU4FWL2",
-            "description": "SM-A826S_KOR_14_Opensource.zip"
+            "model": "SM-A202K",
+            "version": "A202KKKS8CWA1",
+            "description": "SM-A202K_KOR_RR_Opensource.zip"
         }
     ]
 }
